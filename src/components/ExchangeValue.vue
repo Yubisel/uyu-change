@@ -32,7 +32,7 @@ export default {
   name: 'ExchangeValue',
 
   data: () => ({
-      api_url: process.env.VUE_APP_API_URL,
+      api_url: process.env.VUE_APP_API_URL || '',
   }),
 
   computed: {
