@@ -2,7 +2,7 @@
     "name": "uyu-change",
     "version": "0.1.0",
     "private": true,
-    "description": "cash control system",
+    "description": "UYU Change",
     "main": "server.js",
     "scripts": {
         "start": "node server/server.js",
