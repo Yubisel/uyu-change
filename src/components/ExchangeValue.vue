@@ -7,13 +7,15 @@
           <th class="text-left">Currency</th>
           <th class="text-left">Purchase</th>
           <th class="text-left">Sale</th>
+          <th class="text-left">AVG</th>
         </tr>
       </thead>
       <tbody>
-        <tr v-for="currency in coins" :key="currency.initial">
+        <tr v-for="currency in changeValues" :key="currency.initial">
           <td>{{ currency.name }}</td>
           <td>{{ currency.purchase }}</td>
           <td>{{ currency.sale }}</td>
+          <td>{{ ((currency.purchase + currency.sale) / 2).toFixed(2)  }}</td>
         </tr>
       </tbody>
     </template>
@@ -23,7 +25,7 @@
 
 <script>
 
-import { mapMutations } from "vuex";
+import { mapMutations, mapState } from "vuex";
 import axios from "axios";
 
 export default {
@@ -31,43 +33,22 @@ export default {
 
   data: () => ({
       api_url: process.env.VUE_APP_API_URL,
-      coins: [
-          {
-              initial: 'USD',
-              name: 'Dólar',
-              purchase: 36.54,
-              sale: 38.21
-          },
-          {
-              initial: 'EUR',
-              name: 'Euro',
-              purchase: 39.67,
-              sale: 43.61
-          },
-          {
-              initial: 'ARS',
-              name: 'Peso Argentino',
-              purchase: 0.34,
-              sale: 0.77
-          },
-          {
-              initial: 'BRL',
-              name: 'Real',
-              purchase: 8.63,
-              sale: 10.00
-          },
-        ],
   }),
 
+  computed: {
+      ...mapState(["changeValues"])
+  },
+
   methods: {
-        ...mapMutations(["showLoading", "hideLoading"]),
+        ...mapMutations(["showLoading", "hideLoading", "setChangeValues"]),
 
         async getChange() {
             this.showLoading({ title: "Loading", color: "primary" });
 
             try {
                 let result = await axios.get(`${this.api_url}api-v1/change`);
-                console.log(result);
+                // console.log(result.data.changesValues);
+                this.setChangeValues(result.data.changesValues);
             } catch (error) {
                 console.log(error);
             } finally {

@@ -1,7 +1,7 @@
-import Vue from 'vue'
-import Vuex from 'vuex'
+import Vue from 'vue';
+import Vuex from 'vuex';
 
-Vue.use(Vuex)
+Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
@@ -9,7 +9,8 @@ export default new Vuex.Store({
         title: 'Loading please wait',
         color: 'primary',
         status: true
-    }
+    },
+    changeValues: []
   },
   mutations: {
     showLoading(state, payload){
@@ -19,6 +20,9 @@ export default new Vuex.Store({
     },
     hideLoading(state){
         state.loading.status = false;
+    },
+    setChangeValues(state, payload){
+        state.changeValues = payload;
     }
   },
   actions: {
