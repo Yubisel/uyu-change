@@ -22,10 +22,15 @@
 </template>
 
 <script>
+
+import { mapMutations } from "vuex";
+import axios from "axios";
+
 export default {
   name: 'ExchangeValue',
 
   data: () => ({
+      api_url: process.env.VUE_APP_API_URL,
       coins: [
           {
               initial: 'USD',
@@ -53,5 +58,26 @@ export default {
           },
         ],
   }),
+
+  methods: {
+        ...mapMutations(["showLoading", "hideLoading"]),
+
+        async getChange() {
+            this.showLoading({ title: "Loading", color: "primary" });
+
+            try {
+                let result = await axios.get(`${this.api_url}api-v1/change`);
+                console.log(result);
+            } catch (error) {
+                console.log(error);
+            } finally {
+                this.hideLoading();
+            }
+        }
+  },
+
+  created(){
+      this.getChange();
+  }
 };
 </script>

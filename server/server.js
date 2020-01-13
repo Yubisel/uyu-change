@@ -1,6 +1,7 @@
 const express = require('express');
 const logger = require('morgan');
 const path = require('path');
+const cors = require('cors');
 
 //Initializations
 const app = express();
@@ -12,6 +13,7 @@ app.set('port', process.env.PORT || config.port);
 //Middlewares
 app.use(logger(config.logger));
 app.use(express.json());
+app.use(cors());
 
 //Routes
 const routes = require('./routes/routes');
