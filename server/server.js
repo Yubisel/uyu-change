@@ -18,7 +18,11 @@ const routes = require('./routes/routes');
 routes(app);
 
 //Statics
-// app.use(express.static(path.join(__dirname, 'public')));
+if (process.env.ENV === 'Production'){
+    app.use(express.static(path.join(__dirname, '../dist')));
+}else{
+    app.use(express.static(path.join(__dirname, 'public')));
+}
 
 
 app.listen(app.get('port'), () => console.log('Server listening on port', app.get('port')));
