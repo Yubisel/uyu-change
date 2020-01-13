@@ -1,32 +1,35 @@
 <template>
-  <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view/>
-  </div>
+    <v-app>
+        <Navigation></Navigation>
+        <v-content>
+            <v-container fluid>
+                <v-row align="center" justify="center">
+                    <router-view/>
+                </v-row>
+            </v-container>
+        </v-content>
+        <Footer></Footer>
+    </v-app>
 </template>
 
-<style lang="scss">
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+<script>
+import Navigation from './components/layouts/Navigation';
+import Footer from './components/layouts/Footer';
 
-#nav {
-  padding: 30px;
+export default {
+    name: "App",
 
-  a {
-    font-weight: bold;
-    color: #2c3e50;
+    components: {
+        Navigation,
+        Footer
+    },
 
-    &.router-link-exact-active {
-      color: #42b983;
+    data: () => ({
+        
+    }),
+
+    created () {
+    //   this.$vuetify.theme.dark = true
     }
-  }
-}
-</style>
+};
+</script>
