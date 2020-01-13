@@ -9,10 +9,9 @@
 
 <script>
 export default {
-  name: 'Navigation',
+  name: 'Footer',
 
   data: () => ({
-      drawer: false
   })
 };
 </script>
