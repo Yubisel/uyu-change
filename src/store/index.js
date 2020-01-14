@@ -8,7 +8,7 @@ export default new Vuex.Store({
     loading: {
         title: 'Loading please wait',
         color: 'primary',
-        status: true
+        status: false
     },
     changeValues: []
   },

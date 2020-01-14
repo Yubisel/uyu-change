@@ -1,10 +1,44 @@
 <template>
-      <v-flex xs12 md6>
-          Cotización Hoy en Uruguay
-          El precio de las monedas está expresado en pesos uruguayos
-https://uy.cotizacion-dolar.com/cotizacion-hoy-uruguay.php
+    <v-flex xs12 md6>
+        <v-card class="mx-auto pt-2" max-width="344">
+            <v-img
+                class="product_logo"
+                :src="require('@/assets/logo.png')"
+                height="160px"
+                width="150px"
+            ></v-img>
 
-Cotización promedio del dólar estadounidense, del euro, del real y de pesos argentinos, expresada en pesos uruguayos.
-Los datos y valores de cotizaciones aquí publicados son de carácter meramente informativo.
-</v-flex>
+            <v-card-title>EXCHUYU</v-card-title>
+
+            <v-card-subtitle>Today quote in Uruguay</v-card-subtitle>
+
+            <v-divider></v-divider>
+
+            <v-card-text>
+                <p>
+                All information provided here is taked from
+                <a
+                    href="https://uy.cotizacion-dolar.com/cotizacion-hoy-uruguay.php"
+                    target="_blank"
+                >https://uy.cotizacion-dolar.com/cotizacion-hoy-uruguay.php</a>
+            </p>
+            <p>
+                The information is provided "as is", without warranty of any kind. I's you responsability check before any transaction or pay the amount here calculated.
+                </p>
+                </v-card-text>
+        </v-card>
+        <!-- Cotización Hoy en Uruguay
+        El precio de las monedas está expresado en pesos uruguayos
+        https://uy.cotizacion-dolar.com/cotizacion-hoy-uruguay.php
+        Cotización promedio del dólar estadounidense, del euro, del real y de pesos argentinos, expresada en pesos uruguayos.
+        Los datos y valores de cotizaciones aquí publicados son de carácter meramente informativo.-->
+    </v-flex>
 </template>
+
+<style lang="scss">
+.product_logo {
+    height: 100%;
+    width: auto;
+    margin: 0 auto;
+}
+</style>

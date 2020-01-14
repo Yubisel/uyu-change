@@ -1,5 +1,6 @@
 <template>
     <v-flex xs12 md6>
+        <h1 class="title text-center py-1">Today quote in Uruguay</h1>
         <v-simple-table>
             <template v-slot:default>
                 <thead>
