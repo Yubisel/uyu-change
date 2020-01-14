@@ -8,7 +8,7 @@
                 width="150px"
             ></v-img>
 
-            <v-card-title>EXCHUYU</v-card-title>
+            <v-card-title>CHUYU</v-card-title>
 
             <v-card-subtitle>Today quote in Uruguay</v-card-subtitle>
 

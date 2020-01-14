@@ -32,7 +32,7 @@
                     transition="scale-transition"
                     width="40"
                 />
-                <v-toolbar-title>EXCHUYU</v-toolbar-title>
+                <v-toolbar-title>CHUYU</v-toolbar-title>
             </div>
         </v-app-bar>
     </div>

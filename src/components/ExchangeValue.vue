@@ -28,20 +28,26 @@
 
         <v-dialog v-model="dialog" persistent max-width="500px">
             <v-card>
-                <v-card-title>Change from {{activeCurrency.initial}} to UYU</v-card-title>
+                <v-card-title>Change value {{ calcAvg(activeCurrency) }} (AVG)</v-card-title>
                 <v-row class="mx-3">
+                    <v-flex xs6>
+                        <v-label>From {{activeCurrency.initial}}</v-label>
+                    </v-flex>
+                    <v-flex xs6>
+                        <v-label>To UYU</v-label>
+                    </v-flex>
                     <v-flex xs6>
                         <v-text-field
                             v-model="value"
-                            :label="activeCurrency.initial + ' amount'"
+                            label="Amount"
                             required
                             type="number"
                         ></v-text-field>
                     </v-flex>
-                    <v-flex xs6 class="text-center">
+                    <v-flex xs6>
                         <v-text-field
                             class="text-right"
-                            label="UYU"
+                            label=""
                             disabled
                             prefix="$"
                             :value="(calcAvg(activeCurrency) * value).toFixed(2)"
