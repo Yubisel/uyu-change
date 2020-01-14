@@ -24,15 +24,15 @@
         <v-app-bar app clipped-left>
             <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
             <div class="d-flex align-center">
-        <v-img
-          alt="App Logo"
-          class="shrink mr-2"
-          contain
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png"
-          transition="scale-transition"
-          width="40"
-        />
-            <v-toolbar-title>EXCHUYU</v-toolbar-title>
+                <v-img
+                    alt="App Logo"
+                    class="shrink mr-2"
+                    contain
+                    :src="require('@/assets/logo.png')"
+                    transition="scale-transition"
+                    width="40"
+                />
+                <v-toolbar-title>EXCHUYU</v-toolbar-title>
             </div>
         </v-app-bar>
     </div>
@@ -41,10 +41,10 @@
 
 <script>
 export default {
-  name: 'Navigation',
+    name: "Navigation",
 
-  data: () => ({
-      drawer: false
-  })
+    data: () => ({
+        drawer: false
+    })
 };
 </script>
