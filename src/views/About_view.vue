@@ -16,16 +16,14 @@
 
             <v-card-text>
                 <p>
-                All information provided here is taked from
-                <a
-                    href="https://uy.cotizacion-dolar.com/cotizacion-hoy-uruguay.php"
-                    target="_blank"
-                >https://uy.cotizacion-dolar.com/cotizacion-hoy-uruguay.php</a>
-            </p>
-            <p>
-                The information is provided "as is", without warranty of any kind. I's you responsability check before any transaction or pay the amount here calculated.
+                    All information provided here is taked from
+                    <a
+                        href="https://uy.cotizacion-dolar.com/cotizacion-hoy-uruguay.php"
+                        target="_blank"
+                    >https://uy.cotizacion-dolar.com/cotizacion-hoy-uruguay.php</a>
                 </p>
-                </v-card-text>
+                <p>The information is provided "as is", without warranty of any kind. I's you responsability check before any transaction or pay the amount here calculated.</p>
+            </v-card-text>
         </v-card>
     </v-flex>
 </template>

@@ -22,6 +22,11 @@
                         <td>{{ currency.sale }}</td>
                         <td>{{ calcAvg(currency) }}</td>
                     </tr>
+                    <tr v-if="!changeValues.length">
+                        <td colspan="4" class="text-center">
+                        <em>Without records to show</em>
+                        </td>
+                    </tr>
                 </tbody>
             </template>
         </v-simple-table>
@@ -77,8 +82,7 @@ export default {
             name: "",
             purchase: 0,
             sale: 0
-        },
-        api_url: process.env.VUE_APP_API_URL || ""
+        }
     }),
 
     computed: {
@@ -92,7 +96,7 @@ export default {
             this.showLoading({ title: "Loading", color: "primary" });
 
             try {
-                let result = await axios.get(`${this.api_url}api-v1/change`);
+                let result = await axios.get(`${this.config.baseUrl}${this.config.apiUrl}/change`);
                 // console.log(result.data.changesValues);
                 this.setChangeValues(result.data.changesValues);
             } catch (error) {

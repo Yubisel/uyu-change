@@ -10,7 +10,8 @@ export default new Vuex.Store({
         color: 'primary',
         status: false
     },
-    changeValues: []
+    changeValues: [],
+    countries: {}
   },
   mutations: {
     showLoading(state, payload){
@@ -23,10 +24,13 @@ export default new Vuex.Store({
     },
     setChangeValues(state, payload){
         state.changeValues = payload;
+    },
+    setCountries(state, payload){
+        state.countries = payload;
     }
   },
   actions: {
   },
   modules: {
   }
-})
+});

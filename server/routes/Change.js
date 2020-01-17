@@ -19,7 +19,7 @@ router.get('/', (req, res) => {
             });
         }
         res.json({
-            status: resp.statusCode,
+            status: resp.statusCode || 404,
             changesValues: changesValues
         });
     });

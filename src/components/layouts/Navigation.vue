@@ -10,6 +10,14 @@
                         <v-list-item-title>Currency Value</v-list-item-title>
                     </v-list-item-content>
                 </v-list-item>
+                <v-list-item link to="/countries">
+                    <v-list-item-action>
+                        <v-icon>fa-globe-americas</v-icon>
+                    </v-list-item-action>
+                    <v-list-item-content>
+                        <v-list-item-title>Countries</v-list-item-title>
+                    </v-list-item-content>
+                </v-list-item>
                 <v-list-item link to="/about">
                     <v-list-item-action>
                         <v-icon>fa-question-circle</v-icon>
