@@ -30,6 +30,7 @@
         "core-js": "^3.4.4",
         "cors": "^2.8.5",
         "express": "^4.17.1",
+        "flag-icon-css": "^3.4.5",
         "morgan": "^1.9.1",
         "request": "^2.88.0",
         "roboto-fontface": "*",

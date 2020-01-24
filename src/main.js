@@ -5,6 +5,7 @@ import store from './store';
 import vuetify from './plugins/vuetify';
 import 'roboto-fontface/css/roboto/roboto-fontface.css';
 import '@fortawesome/fontawesome-free/css/all.css';
+import 'flag-icon-css/css/flag-icon.css';
 
 const config = require('../server/config/config');
 
