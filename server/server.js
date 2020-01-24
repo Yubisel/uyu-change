@@ -2,6 +2,7 @@ const express = require('express');
 const logger = require('morgan');
 const path = require('path');
 const cors = require('cors');
+const history = require('connect-history-api-fallback');
 
 //Initializations
 const app = express();
@@ -11,6 +12,7 @@ const config = require('./config/config');
 app.set('port', process.env.PORT || config.port);
 
 //Middlewares
+app.use(history());
 app.use(logger(config.logger));
 app.use(express.json());
 app.use(cors());
