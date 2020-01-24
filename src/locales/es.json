@@ -1,0 +1,8 @@
+{
+    "hello": "hola i18n !!",
+    "navigation": {
+        "changeCurrency": "Valor de cambio",
+        "countries": "Países",
+        "about": "Sobre"
+    }
+}

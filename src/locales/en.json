@@ -1,0 +1,8 @@
+{
+    "hello": "Hello world !!",
+    "navigation": {
+        "changeCurrency": "Change Value",
+        "countries": "Countries",
+        "about": "About"
+    }
+}

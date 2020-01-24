@@ -1,57 +1,60 @@
 {
-    "name": "uyu-change",
-    "version": "0.1.0",
-    "private": true,
-    "description": "UYU Change",
-    "main": "server.js",
-    "scripts": {
-        "start": "node server/server.js",
-        "dev": "nodemon server/server.js",
-        "app": "vue-cli-service serve --mode development",
-        "build": "vue-cli-service build"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Yubisel/uyu-change.git"
-    },
-    "keywords": [
-        "uyu"
-    ],
-    "author": "Ing. Yubisel Vega Alvarez",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/Yubisel/uyu-change/issues"
-    },
-    "homepage": "https://github.com/Yubisel/uyu-change#readme",
-    "dependencies": {
-        "@fortawesome/fontawesome-free": "^5.8.2",
-        "axios": "^0.19.1",
-        "cheerio": "^1.0.0-rc.3",
-        "connect-history-api-fallback": "^1.6.0",
-        "core-js": "^3.4.4",
-        "cors": "^2.8.5",
-        "express": "^4.17.1",
-        "flag-icon-css": "^3.4.5",
-        "morgan": "^1.9.1",
-        "request": "^2.88.0",
-        "roboto-fontface": "*",
-        "vue": "^2.6.10",
-        "vue-axios": "^2.1.5",
-        "vue-router": "^3.1.3",
-        "vuetify": "^2.1.0",
-        "vuex": "^3.1.2"
-    },
-    "devDependencies": {
-        "@vue/cli-plugin-babel": "^4.1.0",
-        "@vue/cli-plugin-router": "^4.1.0",
-        "@vue/cli-plugin-vuex": "^4.1.0",
-        "@vue/cli-service": "^4.1.0",
-        "node-sass": "^4.12.0",
-        "nodemon": "^2.0.2",
-        "sass": "^1.19.0",
-        "sass-loader": "^8.0.0",
-        "vue-cli-plugin-vuetify": "^2.0.3",
-        "vue-template-compiler": "^2.6.10",
-        "vuetify-loader": "^1.3.0"
-    }
+  "name": "uyu-change",
+  "version": "0.1.0",
+  "private": true,
+  "description": "UYU Change",
+  "author": "Ing. Yubisel Vega Alvarez",
+  "scripts": {
+    "build": "vue-cli-service build",
+    "app": "vue-cli-service serve --mode development",
+    "dev": "nodemon server/server.js",
+    "i18n:report": "vue-cli-service i18n:report --src './src/**/*.?(js|vue)' --locales './src/locales/**/*.json'",
+    "start": "node server/server.js"
+  },
+  "main": "server.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.2",
+    "axios": "^0.19.1",
+    "cheerio": "^1.0.0-rc.3",
+    "connect-history-api-fallback": "^1.6.0",
+    "core-js": "^3.4.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "flag-icon-css": "^3.4.5",
+    "morgan": "^1.9.1",
+    "request": "^2.88.0",
+    "roboto-fontface": "*",
+    "vue": "^2.6.10",
+    "vue-axios": "^2.1.5",
+    "vue-i18n": "^8.0.0",
+    "vue-router": "^3.1.3",
+    "vuetify": "^2.1.0",
+    "vuex": "^3.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.0",
+    "@vue/cli-plugin-router": "^4.1.0",
+    "@vue/cli-plugin-vuex": "^4.1.0",
+    "@vue/cli-service": "^4.1.0",
+    "node-sass": "^4.12.0",
+    "nodemon": "^2.0.2",
+    "sass": "^1.19.0",
+    "sass-loader": "^8.0.0",
+    "vue-cli-plugin-i18n": "^0.6.1",
+    "vue-cli-plugin-vuetify": "^2.0.3",
+    "vue-template-compiler": "^2.6.10",
+    "vuetify-loader": "^1.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Yubisel/uyu-change/issues"
+  },
+  "homepage": "https://github.com/Yubisel/uyu-change#readme",
+  "keywords": [
+    "uyu"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yubisel/uyu-change.git"
+  }
 }
