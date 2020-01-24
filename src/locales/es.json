@@ -1,8 +1,30 @@
 {
     "hello": "hola i18n !!",
+    "buttons": {
+        "accept": "Aceptar",
+        "close": "Cerrar",
+        "save": "Guardar",
+        "cancel": "Cancelar",
+        "new": "Nuevo",
+        "edit": "Editar"
+    },
+    "table": {
+        "emptyRecords": "Sin registros para mostrar"
+    },
     "navigation": {
         "changeCurrency": "Valor de cambio",
         "countries": "Países",
         "about": "Sobre"
+    },
+    "exchangeValue": {
+        "title": "Cotización hoy en Uruguay",
+        "currency": "Moneda",
+        "purchase": "Compra",
+        "sale": "Venta",
+        "avg": "AVG",
+        "amount": "Cantidad",
+        "changeValue": "Valor de cambio",
+        "from": "De",
+        "to": "A"
     }
 }

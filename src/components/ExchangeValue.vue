@@ -1,14 +1,14 @@
 <template>
     <v-flex xs12 md6>
-        <h1 class="title text-center py-1">Today quote in Uruguay</h1>
+        <h1 class="title text-center py-1">{{ $t('exchangeValue.title') }}</h1>
         <v-simple-table>
             <template v-slot:default>
                 <thead>
                     <tr>
-                        <th class="text-left">Currency</th>
-                        <th class="text-left">Purchase</th>
-                        <th class="text-left">Sale</th>
-                        <th class="text-left">AVG</th>
+                        <th class="text-left">{{ $t('exchangeValue.currency') }}</th>
+                        <th class="text-left">{{ $t('exchangeValue.purchase') }}</th>
+                        <th class="text-left">{{ $t('exchangeValue.sale') }}</th>
+                        <th class="text-left">{{ $t('exchangeValue.avg') }}</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -24,7 +24,7 @@
                     </tr>
                     <tr v-if="!changeValues.length">
                         <td colspan="4" class="text-center">
-                        <em>Without records to show</em>
+                        <em>{{ $t('table.emptyRecords') }}</em>
                         </td>
                     </tr>
                 </tbody>
@@ -33,18 +33,18 @@
 
         <v-dialog v-model="dialog" persistent max-width="500px">
             <v-card>
-                <v-card-title>Change value {{ calcAvg(activeCurrency) }} (AVG)</v-card-title>
+                <v-card-title>{{ $t('exchangeValue.changeValue') }} {{ calcAvg(activeCurrency) }} (AVG)</v-card-title>
                 <v-row class="mx-3">
                     <v-flex xs6>
-                        <v-label>From {{activeCurrency.initial}}</v-label>
+                        <v-label>{{ $t('exchangeValue.from') }} {{activeCurrency.initial}}</v-label>
                     </v-flex>
                     <v-flex xs6>
-                        <v-label>To UYU</v-label>
+                        <v-label>{{ $t('exchangeValue.to') }} UYU</v-label>
                     </v-flex>
                     <v-flex xs6>
                         <v-text-field
                             v-model="value"
-                            label="Amount"
+                            :label="$t('exchangeValue.amount')"
                             required
                             type="number"
                         ></v-text-field>
@@ -60,7 +60,7 @@
                     </v-flex>
                 </v-row>
                 <v-card-actions>
-                    <v-btn class="mx-auto" color="primary" dark @click="dialog = false">Close</v-btn>
+                    <v-btn class="mx-auto" color="primary" dark @click="dialog = false">{{ $t('buttons.close') }}</v-btn>
                 </v-card-actions>
             </v-card>
         </v-dialog>

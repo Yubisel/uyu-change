@@ -1,8 +1,36 @@
 {
     "hello": "Hello world !!",
+    "buttons": {
+        "accept": "Accept",
+        "close": "Close",
+        "save": "Save",
+        "cancel": "Cancel",
+        "new": "New",
+        "edit": "Edit"
+    },
+    "table": {
+        "emptyRecords": "Without records to show"
+    },
     "navigation": {
         "changeCurrency": "Change Value",
         "countries": "Countries",
         "about": "About"
+    },
+    "exchangeValue": {
+        "title": "Today quote in Uruguay",
+        "currency": "Currency",
+        "purchase": "Purchase",
+        "sale": "Sale",
+        "avg": "AVG",
+        "amount": "Amount",
+        "changeValue": "Change value",
+        "from": "From",
+        "to": "To"
+    },
+    "countries": {
+
+    },
+    "about": {
+
     }
 }
