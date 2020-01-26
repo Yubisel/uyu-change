@@ -10,19 +10,21 @@
 
             <v-card-title>CHUYU</v-card-title>
 
-            <v-card-subtitle>Today quote in Uruguay</v-card-subtitle>
+            <v-card-subtitle>{{ $t('about.title') }}</v-card-subtitle>
 
             <v-divider></v-divider>
 
             <v-card-text>
                 <p>
-                    All information provided here is taked from
+                    {{ $t('about.origin') }}
                     <a
                         href="https://uy.cotizacion-dolar.com/cotizacion-hoy-uruguay.php"
                         target="_blank"
                     >https://uy.cotizacion-dolar.com/cotizacion-hoy-uruguay.php</a>
                 </p>
-                <p>The information is provided "as is", without warranty of any kind. I's you responsability check before any transaction or pay the amount here calculated.</p>
+                <p>
+                    {{ $t('about.description') }}
+                </p>
             </v-card-text>
         </v-card>
     </v-flex>

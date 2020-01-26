@@ -1,8 +1,12 @@
 <template>
     <v-flex xs12 md10>
-        <h1 class="title text-center py-1">Countries</h1>
+        <h1 class="title text-center py-1">{{ $t('countries.title') }}</h1>
         <v-flex xs12 md4 class="ml-auto">
-        <v-text-field v-model="search" append-icon="fas fa-search" label="Search"></v-text-field>
+            <v-text-field
+                v-model="search"
+                append-icon="fas fa-search"
+                :label="$t('buttons.search')"
+            ></v-text-field>
         </v-flex>
         <v-data-table
             :headers="countriesHeader"
@@ -21,6 +25,7 @@
 <script>
 import { mapMutations, mapState } from "vuex";
 import axios from "axios";
+import i18n from '../i18n';
 
 export default {
     name: "Countries",
@@ -30,7 +35,20 @@ export default {
     }),
 
     computed: {
-        ...mapState(["countries", "countriesHeader"])
+        ...mapState(["countries"]),
+        countriesHeader: () => [
+            {
+                text: i18n.t("countries.flag"),
+                align: "left",
+                filterable: true,
+                sortable: false,
+                value: "id"
+            },
+            { text: i18n.t("countries.name"), value: "name" },
+            { text: "Alpha 2", value: "alpha2" },
+            { text: "Alpha 3", value: "alpha3" },
+            { text: i18n.t("countries.numeric"), value: "numeric" }
+        ]
     },
 
     methods: {

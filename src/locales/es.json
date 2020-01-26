@@ -6,7 +6,8 @@
         "save": "Guardar",
         "cancel": "Cancelar",
         "new": "Nuevo",
-        "edit": "Editar"
+        "edit": "Editar",
+        "search": "Buscar"
     },
     "table": {
         "emptyRecords": "Sin registros para mostrar"
@@ -26,5 +27,16 @@
         "changeValue": "Valor de cambio",
         "from": "De",
         "to": "A"
+    },
+    "countries": {
+        "title": "Países",
+        "flag": "Bandera",
+        "name": "Nombre",
+        "numeric": "Número"
+    },
+    "about": {
+        "title": "Cotización hoy en Uruguay",
+        "origin": "Toda la información proporcionada aquí es tomada de",
+        "description": "La información se proporciona \"tal cual\", sin garantía de ningún tipo. Es su responsabilidad la verificación de la misma antes de cualquier transacción o pago del monto aquí calculado."
     }
 }
