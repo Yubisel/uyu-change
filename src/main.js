@@ -25,6 +25,10 @@ Vue.mixin({
     })
 });
 
+if (localStorage.lang){
+    i18n.locale = localStorage.lang;
+}
+
 new Vue({
     router,
     store,

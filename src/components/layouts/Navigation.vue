@@ -51,8 +51,14 @@
                     </template>
 
                     <v-list>
-                        <v-list-item v-for="(item, i) in locales" :key="i" @click="changeLocale(item)">
-                            <v-list-item-title><span :class="'flag-icon flag-icon-' + config.lang[item]"></span></v-list-item-title>
+                        <v-list-item
+                            v-for="(item, i) in locales"
+                            :key="i"
+                            @click="changeLocale(item)"
+                        >
+                            <v-list-item-title>
+                                <span :class="'flag-icon flag-icon-' + config.lang[item]"></span>
+                            </v-list-item-title>
                         </v-list-item>
                     </v-list>
                 </v-menu>
@@ -75,11 +81,11 @@ export default {
         }
     },
     methods: {
-        changeLocale(locale){
+        changeLocale(locale) {
+            localStorage.lang = locale;
             this.$i18n.locale = locale;
         }
     },
-    created(){
-    }
+    created() {}
 };
 </script>
