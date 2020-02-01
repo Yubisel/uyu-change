@@ -23,8 +23,7 @@
 </template>
 
 <script>
-import { mapMutations, mapState } from "vuex";
-import axios from "axios";
+import { mapState } from "vuex";
 import i18n from '../i18n';
 
 export default {
@@ -50,28 +49,8 @@ export default {
             { text: i18n.t("countries.numeric"), value: "numeric" }
         ]
     },
-
-    methods: {
-        ...mapMutations(["showLoading", "hideLoading", "setCountries"]),
-
-        async getCountries() {
-            this.showLoading({ title: "Loading", color: "primary" });
-
-            try {
-                let result = await axios.get(
-                    `${this.config.baseUrl}/iso.countries.json`
-                );
-                this.setCountries(result.data);
-            } catch (error) {
-                console.log(error);
-            } finally {
-                this.hideLoading();
-            }
-        }
-    },
-
     created() {
-        this.getCountries();
+        this.$store.dispatch('loadCountries', { config: this.config });
     }
 };
 </script>

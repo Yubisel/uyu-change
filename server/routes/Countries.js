@@ -26,7 +26,7 @@ router.get('/json', (req, res) => {
             "nameEs": isoCurrencies[keyCur].nameEs,
             "countries": isoCurrencies[keyCur].cont,
             "symbol": isoCurrencies[keyCur].symbol
-        }
+        };
     }
 
     res.json({

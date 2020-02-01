@@ -20,8 +20,7 @@
 </template>
 
 <script>
-import { mapMutations, mapState } from "vuex";
-import axios from "axios";
+import { mapState } from "vuex";
 import i18n from '../i18n';
 
 export default {
@@ -46,28 +45,8 @@ export default {
             { text: i18n.t("currencies.numeric"), value: "numeric" }
         ]
     },
-
-    methods: {
-        ...mapMutations(["showLoading", "hideLoading", "setCurrencies"]),
-
-        async getcurrencies() {
-            this.showLoading({ title: "Loading", color: "primary" });
-
-            try {
-                let result = await axios.get(
-                    `${this.config.baseUrl}/iso.currencies.json`
-                );
-                this.setCurrencies(result.data);
-            } catch (error) {
-                console.log(error);
-            } finally {
-                this.hideLoading();
-            }
-        }
-    },
-
     created() {
-        this.getcurrencies();
+        this.$store.dispatch('loadCurrencies', { config: this.config });
     }
 };
 </script>
