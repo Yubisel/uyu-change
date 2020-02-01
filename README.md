@@ -1,6 +1,6 @@
 # uyu-change
 
-public url [https://chuyu.herokuapp.com] https://chuyu.herokuapp.com
+public url [https://chuyu.herokuapp.com](https://chuyu.herokuapp.com)
 
 ## Project setup
 ```
