@@ -1,13 +1,20 @@
 # uyu-change
 
+public url [https://chuyu.herokuapp.com](https://chuyu.herokuapp.com)
+
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development api server
 ```
 npm run serve
+```
+
+### Compiles and hot-reloads for development frontend
+```
+npm run app
 ```
 
 ### Compiles and minifies for production
