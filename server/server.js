@@ -12,7 +12,7 @@ const config = require('./config/config');
 app.set('port', process.env.PORT || config.port);
 
 //Middlewares
-app.use(history());
+// app.use(history());
 app.use(logger(config.logger));
 app.use(express.json());
 app.use(cors());

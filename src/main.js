@@ -18,7 +18,7 @@ Vue.mixin({
             baseUrl: process.env.VUE_APP_API_URL || "",
             apiUrl: config.apiUrl,
             lang: {
-                "en": "gb", // country alpha 2 letters
+                "en": "gb", // country alpha 2 letters for flag in langs selector
                 "es": "es"
             }
         }
