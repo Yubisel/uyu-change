@@ -15,6 +15,7 @@
     "navigation": {
         "changeCurrency": "Valor de cambio",
         "countries": "Países",
+        "currencies": "Monedas",
         "about": "Sobre"
     },
     "exchangeValue": {
@@ -32,6 +33,13 @@
         "title": "Países",
         "flag": "Bandera",
         "name": "Nombre",
+        "numeric": "Número"
+    },
+    "currencies": {
+        "title": "Monedas",
+        "code": "Código",
+        "name": "Nombre",
+        "symbol": "Símbolo",
         "numeric": "Número"
     },
     "about": {

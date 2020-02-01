@@ -1,6 +1,6 @@
 <template>
     <v-flex xs12 md10>
-        <h1 class="title text-center py-1">{{ $t('countries.title') }}</h1>
+        <h1 class="title text-center py-1">{{ $t('currencies.title') }}</h1>
         <v-flex xs12 md4 class="ml-auto">
             <v-text-field
                 v-model="search"
@@ -9,15 +9,12 @@
             ></v-text-field>
         </v-flex>
         <v-data-table
-            :headers="countriesHeader"
-            :items="countries"
+            :headers="currenciesHeader"
+            :items="currencies"
             :items-per-page="10"
             class="elevation-1"
             :search="search"
         >
-            <template v-slot:item.id="{ item }">
-                <span :class="'flag-icon flag-icon-' + item.alpha2.toLowerCase()"></span>
-            </template>
         </v-data-table>
     </v-flex>
 </template>
@@ -28,40 +25,39 @@ import axios from "axios";
 import i18n from '../i18n';
 
 export default {
-    name: "Countries",
+    name: "currencies",
 
     data: () => ({
         search: ""
     }),
 
     computed: {
-        ...mapState(["countries"]),
-        countriesHeader: () => [
+        ...mapState(["currencies"]),
+        currenciesHeader: () => [
             {
-                text: i18n.t("countries.flag"),
-                align: "left",
+                text: i18n.t("currencies.code"),
+                align: "center",
                 filterable: true,
                 sortable: false,
-                value: "id"
+                value: "code"
             },
-            { text: i18n.t("countries.name"), value: "name-" + i18n.locale },
-            { text: "Alpha 2", value: "alpha2" },
-            { text: "Alpha 3", value: "alpha3" },
-            { text: i18n.t("countries.numeric"), value: "numeric" }
+            { text: i18n.t("currencies.name"), value: "name-" + i18n.locale },
+            { text: i18n.t("currencies.symbol"), value: "symbol" },
+            { text: i18n.t("currencies.numeric"), value: "numeric" }
         ]
     },
 
     methods: {
-        ...mapMutations(["showLoading", "hideLoading", "setCountries"]),
+        ...mapMutations(["showLoading", "hideLoading", "setCurrencies"]),
 
-        async getCountries() {
+        async getcurrencies() {
             this.showLoading({ title: "Loading", color: "primary" });
 
             try {
                 let result = await axios.get(
-                    `${this.config.baseUrl}/iso.countries.json`
+                    `${this.config.baseUrl}/iso.currencies.json`
                 );
-                this.setCountries(result.data);
+                this.setCurrencies(result.data);
             } catch (error) {
                 console.log(error);
             } finally {
@@ -71,7 +67,7 @@ export default {
     },
 
     created() {
-        this.getCountries();
+        this.getcurrencies();
     }
 };
 </script>

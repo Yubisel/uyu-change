@@ -18,6 +18,14 @@
                         <v-list-item-title>{{ $t('navigation.countries') }}</v-list-item-title>
                     </v-list-item-content>
                 </v-list-item>
+                <v-list-item link to="/currencies">
+                    <v-list-item-action>
+                        <v-icon>fa-dollar-sign</v-icon>
+                    </v-list-item-action>
+                    <v-list-item-content>
+                        <v-list-item-title>{{ $t('navigation.currencies') }}</v-list-item-title>
+                    </v-list-item-content>
+                </v-list-item>
                 <v-list-item link to="/about">
                     <v-list-item-action>
                         <v-icon>fa-question-circle</v-icon>

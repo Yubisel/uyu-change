@@ -2,1428 +2,1432 @@
     "AED": {
         "code": "AED",
         "numeric": "784",
-        "nameEn": "United Arab Emirates dirham",
-        "nameEs": "Dírham de los Emiratos Árabes Unidos",
+        "name-en": "United Arab Emirates dirham",
+        "name-es": "Dírham de los Emiratos Árabes Unidos",
         "countries": ["AE"],
         "symbol": ""
     },
     "AFN": {
         "code": "AFN",
         "numeric": "971",
-        "nameEn": "Afghan afghani",
-        "nameEs": "Afgani",
+        "name-en": "Afghan afghani",
+        "name-es": "Afgani",
         "countries": ["AF"],
         "symbol": "؋"
     },
     "ALL": {
         "code": "ALL",
         "numeric": "008",
-        "nameEn": "Albanian lek",
-        "nameEs": "Lek",
+        "name-en": "Albanian lek",
+        "name-es": "Lek",
         "countries": ["AL"],
         "symbol": "Lek"
     },
     "AMD": {
         "code": "AMD",
         "numeric": "051",
-        "nameEn": "Armenian dram",
-        "nameEs": "Dram armenio",
+        "name-en": "Armenian dram",
+        "name-es": "Dram armenio",
         "countries": ["AM"],
         "symbol": ""
     },
     "ANG": {
         "code": "ANG",
         "numeric": "532",
-        "nameEn": "Netherlands Antillean guilder",
-        "nameEs": "Florín antillano neerlandés",
+        "name-en": "Netherlands Antillean guilder",
+        "name-es": "Florín antillano neerlandés",
         "countries": ["CW", "SX"],
         "symbol": "ƒ"
     },
     "AOA": {
         "code": "AOA",
         "numeric": "973",
-        "nameEn": "Angolan kwanza",
-        "nameEs": "Kwanza",
+        "name-en": "Angolan kwanza",
+        "name-es": "Kwanza",
         "countries": ["AO"],
         "symbol": ""
     },
     "ARS": {
         "code": "ARS",
         "numeric": "032",
-        "nameEn": "Argentine peso",
-        "nameEs": "Peso argentino",
+        "name-en": "Argentine peso",
+        "name-es": "Peso argentino",
         "countries": ["AR"],
         "symbol": "$"
     },
     "AUD": {
         "code": "AUD",
         "numeric": "036",
-        "nameEn": "Australian dollar",
-        "nameEs": "Dólar australiano",
+        "name-en": "Australian dollar",
+        "name-es": "Dólar australiano",
         "countries": ["AU", "CX", "CC", "HM", "KI", "NR", "NF", "TV"],
         "symbol": "$"
     },
     "AWG": {
         "code": "AWG",
         "numeric": "533",
-        "nameEn": "Aruban florin",
-        "nameEs": "Florín arubeño",
+        "name-en": "Aruban florin",
+        "name-es": "Florín arubeño",
         "countries": ["AW"],
         "symbol": "ƒ"
     },
     "AZN": {
         "code": "AZN",
         "numeric": "944",
-        "nameEn": "Azerbaijani manat",
-        "nameEs": "Manat azerbaiyano",
+        "name-en": "Azerbaijani manat",
+        "name-es": "Manat azerbaiyano",
         "countries": ["AZ"],
         "symbol": "ман"
     },
     "BAM": {
         "code": "BAM",
         "numeric": "977",
-        "nameEn": "Bosnia and Herzegovina convertible mark",
-        "nameEs": "Marco convertible",
+        "name-en": "Bosnia and Herzegovina convertible mark",
+        "name-es": "Marco convertible",
         "countries": ["BA"],
         "symbol": "KM"
     },
     "BBD": {
         "code": "BBD",
         "numeric": "052",
-        "nameEn": "Barbados dollar",
-        "nameEs": "Dólar de Barbados",
+        "name-en": "Barbados dollar",
+        "name-es": "Dólar de Barbados",
         "countries": ["BB"],
         "symbol": "$"
     },
     "BDT": {
         "code": "BDT",
         "numeric": "050",
-        "nameEn": "Bangladeshi taka",
-        "nameEs": "Taka",
+        "name-en": "Bangladeshi taka",
+        "name-es": "Taka",
         "countries": ["BD"],
         "symbol": ""
     },
     "BGN": {
         "code": "BGN",
         "numeric": "975",
-        "nameEn": "Bulgarian lev",
-        "nameEs": "Lev búlgaro",
+        "name-en": "Bulgarian lev",
+        "name-es": "Lev búlgaro",
         "countries": ["BG"],
         "symbol": "лв"
     },
     "BHD": {
         "code": "BHD",
         "numeric": "048",
-        "nameEn": "Bahraini dinar",
-        "nameEs": "Dinar bareiní",
+        "name-en": "Bahraini dinar",
+        "name-es": "Dinar bareiní",
         "countries": ["BH"],
         "symbol": ""
     },
     "BIF": {
         "code": "BIF",
         "numeric": "108",
-        "nameEn": "Burundian franc",
-        "nameEs": "Franco de Burundi",
+        "name-en": "Burundian franc",
+        "name-es": "Franco de Burundi",
         "countries": ["BI"],
         "symbol": ""
     },
     "BMD": {
         "code": "BMD",
         "numeric": "060",
-        "nameEn": "Bermudian dollar",
-        "nameEs": "Dólar bermudeño",
+        "name-en": "Bermudian dollar",
+        "name-es": "Dólar bermudeño",
         "countries": ["BM"],
         "symbol": ""
     },
     "BND": {
         "code": "BND",
         "numeric": "096",
-        "nameEn": "Brunei dollar",
-        "nameEs": "Dólar de Brunéi",
+        "name-en": "Brunei dollar",
+        "name-es": "Dólar de Brunéi",
         "countries": ["BN"],
         "symbol": "$"
     },
     "BOB": {
         "code": "BOB",
         "numeric": "068",
-        "nameEn": "Boliviano",
-        "nameEs": "Boliviano",
+        "name-en": "Boliviano",
+        "name-es": "Boliviano",
         "countries": ["BO"],
         "symbol": "$b"
     },
     "BOV": {
         "code": "BOV",
         "numeric": "984",
-        "nameEn": "Bolivian Mvdol (funds code)",
-        "nameEs": "MVDOL",
+        "name-en": "Bolivian Mvdol (funds code)",
+        "name-es": "MVDOL",
         "countries": ["BO"],
         "symbol": ""
     },
     "BRL": {
         "code": "BRL",
         "numeric": "986",
-        "nameEn": "Brazilian real",
-        "nameEs": "Real brasileño",
+        "name-en": "Brazilian real",
+        "name-es": "Real brasileño",
         "countries": ["BR"],
         "symbol": "R$"
     },
     "BSD": {
         "code": "BSD",
         "numeric": "044",
-        "nameEn": "Bahamian dollar",
-        "nameEs": "Dólar bahameño",
+        "name-en": "Bahamian dollar",
+        "name-es": "Dólar bahameño",
         "countries": ["BS"],
         "symbol": "$"
     },
     "BTN": {
         "code": "BTN",
         "numeric": "064",
-        "nameEn": "Bhutanese ngultrum",
-        "nameEs": "Ngultrum",
+        "name-en": "Bhutanese ngultrum",
+        "name-es": "Ngultrum",
         "countries": ["BT"],
         "symbol": ""
     },
     "BWP": {
         "code": "BWP",
         "numeric": "072",
-        "nameEn": "Botswana pula",
-        "nameEs": "Pula",
+        "name-en": "Botswana pula",
+        "name-es": "Pula",
         "countries": ["BW"],
         "symbol": "P"
     },
     "BYN": {
         "code": "BYN",
         "numeric": "933",
-        "nameEn": "Belarusian ruble",
-        "nameEs": "Rublo bielorruso",
+        "name-en": "Belarusian ruble",
+        "name-es": "Rublo bielorruso",
         "countries": ["BY"],
         "symbol": "p."
     },
     "BZD": {
         "code": "BZD",
         "numeric": "084",
-        "nameEn": "Belize dollar",
-        "nameEs": "Dólar beliceño",
+        "name-en": "Belize dollar",
+        "name-es": "Dólar beliceño",
         "countries": ["BZ"],
         "symbol": "BZ$"
     },
     "CAD": {
         "code": "CAD",
         "numeric": "124",
-        "nameEn": "Canadian dollar",
-        "nameEs": "Dólar canadiense",
+        "name-en": "Canadian dollar",
+        "name-es": "Dólar canadiense",
         "countries": ["CA"],
         "symbol": "$"
     },
     "CDF": {
         "code": "CDF",
         "numeric": "976",
-        "nameEn": "Congolese franc",
-        "nameEs": "Franco congoleño",
+        "name-en": "Congolese franc",
+        "name-es": "Franco congoleño",
         "countries": ["CD"],
         "symbol": ""
     },
     "CHE": {
         "code": "CHE",
         "numeric": "947",
-        "nameEn": "WIR Euro (complementary currency)",
-        "nameEs": "Euro WIR",
+        "name-en": "WIR Euro (complementary currency)",
+        "name-es": "Euro WIR",
         "countries": ["CH"],
         "symbol": ""
     },
     "CHF": {
         "code": "CHF",
         "numeric": "756",
-        "nameEn": "Swiss franc",
-        "nameEs": "Franco suizo",
+        "name-en": "Swiss franc",
+        "name-es": "Franco suizo",
         "countries": ["LI", "CH"],
         "symbol": "Fr."
     },
     "CHW": {
         "code": "CHW",
         "numeric": "948",
-        "nameEn": "WIR Franc (complementary currency)",
-        "nameEs": "Franco WIR",
+        "name-en": "WIR Franc (complementary currency)",
+        "name-es": "Franco WIR",
         "countries": ["CH"],
         "symbol": ""
     },
     "CLF": {
         "code": "CLF",
         "numeric": "990",
-        "nameEn": "Unidad de Fomento (funds code)",
-        "nameEs": "Unidad de fomento",
+        "name-en": "Unidad de Fomento (funds code)",
+        "name-es": "Unidad de fomento",
         "countries": ["CL"],
         "symbol": ""
     },
     "CLP": {
         "code": "CLP",
         "numeric": "152",
-        "nameEn": "Chilean peso",
-        "nameEs": "Peso chileno",
+        "name-en": "Chilean peso",
+        "name-es": "Peso chileno",
         "countries": ["CL"],
         "symbol": "$"
     },
     "CNY": {
         "code": "CNY",
         "numeric": "156",
-        "nameEn": "Renminbi (Chinese) yuan[7]",
-        "nameEs": "Yuan chino",
+        "name-en": "Renminbi (Chinese) yuan[7]",
+        "name-es": "Yuan chino",
         "countries": ["CN"],
         "symbol": "¥"
     },
     "COP": {
         "code": "COP",
         "numeric": "170",
-        "nameEn": "Colombian peso",
-        "nameEs": "Peso colombiano",
+        "name-en": "Colombian peso",
+        "name-es": "Peso colombiano",
         "countries": ["CO"],
         "symbol": "$"
     },
     "COU": {
         "code": "COU",
         "numeric": "970",
-        "nameEn": "Unidad de Valor Real (UVR) (funds code)[8]",
-        "nameEs": "Unidad de valor real",
+        "name-en": "Unidad de Valor Real (UVR) (funds code)[8]",
+        "name-es": "Unidad de valor real",
         "countries": ["CO"],
         "symbol": ""
     },
     "CRC": {
         "code": "CRC",
         "numeric": "188",
-        "nameEn": "Costa Rican colon",
-        "nameEs": "Colón costarricense",
+        "name-en": "Costa Rican colon",
+        "name-es": "Colón costarricense",
         "countries": ["CR"],
         "symbol": "₡"
     },
     "CUC": {
         "code": "CUC",
         "numeric": "931",
-        "nameEn": "Cuban convertible peso",
-        "nameEs": "Peso convertible",
+        "name-en": "Cuban convertible peso",
+        "name-es": "Peso convertible",
         "countries": ["CU"],
         "symbol": ""
     },
     "CUP": {
         "code": "CUP",
         "numeric": "192",
-        "nameEn": "Cuban peso",
-        "nameEs": "Peso cubano",
+        "name-en": "Cuban peso",
+        "name-es": "Peso cubano",
         "countries": ["CU"],
         "symbol": "$"
     },
     "CVE": {
         "code": "CVE",
         "numeric": "132",
-        "nameEn": "Cape Verdean escudo",
-        "nameEs": "Escudo caboverdiano",
+        "name-en": "Cape Verdean escudo",
+        "name-es": "Escudo caboverdiano",
         "countries": ["CV"],
         "symbol": ""
     },
     "CZK": {
         "code": "CZK",
         "numeric": "203",
-        "nameEn": "Czech koruna",
-        "nameEs": "Corona checa",
+        "name-en": "Czech koruna",
+        "name-es": "Corona checa",
         "countries": ["CZ"],
         "symbol": "Kč"
     },
     "DJF": {
         "code": "DJF",
         "numeric": "262",
-        "nameEn": "Djiboutian franc",
-        "nameEs": "Franco yibutiano",
+        "name-en": "Djiboutian franc",
+        "name-es": "Franco yibutiano",
         "countries": ["DJ"],
         "symbol": ""
     },
     "DKK": {
         "code": "DKK",
         "numeric": "208",
-        "nameEn": "Danish krone",
-        "nameEs": "Corona danesa",
+        "name-en": "Danish krone",
+        "name-es": "Corona danesa",
         "countries": ["DK", "FO", "GL"],
         "symbol": "kr"
     },
     "DOP": {
         "code": "DOP",
         "numeric": "214",
-        "nameEn": "Dominican peso",
-        "nameEs": "Peso dominicano",
+        "name-en": "Dominican peso",
+        "name-es": "Peso dominicano",
         "countries": ["DO"],
         "symbol": "RD$"
     },
     "DZD": {
         "code": "DZD",
         "numeric": "012",
-        "nameEn": "Algerian dinar",
-        "nameEs": "Dinar argelino",
+        "name-en": "Algerian dinar",
+        "name-es": "Dinar argelino",
         "countries": ["DZ"],
         "symbol": ""
     },
     "EGP": {
         "code": "EGP",
         "numeric": "818",
-        "nameEn": "Egyptian pound",
-        "nameEs": "Libra egipcia",
+        "name-en": "Egyptian pound",
+        "name-es": "Libra egipcia",
         "countries": ["EG"],
         "symbol": "£"
     },
     "ERN": {
         "code": "ERN",
         "numeric": "232",
-        "nameEn": "Eritrean nakfa",
-        "nameEs": "Nakfa",
+        "name-en": "Eritrean nakfa",
+        "name-es": "Nakfa",
         "countries": ["ER"],
         "symbol": ""
     },
     "ETB": {
         "code": "ETB",
         "numeric": "230",
-        "nameEn": "Ethiopian birr",
-        "nameEs": "Birr etíope",
+        "name-en": "Ethiopian birr",
+        "name-es": "Birr etíope",
         "countries": ["ET"],
         "symbol": ""
     },
     "EUR": {
         "code": "EUR",
         "numeric": "978",
-        "nameEn": "Euro",
-        "nameEs": "Euro",
+        "name-en": "Euro",
+        "name-es": "Euro",
         "countries": ["AD", "AT", "BE", "CY", "EE", "FI", "FR", "GF", "TF", "DE", "GR", "GP", "VA", "IE", "IT", "LV", "LT", "LU", "MT", "MQ", "YT", "MC", "ME", "NL", "PT", "RE", "BL", "MF", "PM", "SM", "SK", "SI", "ES", "AX"],
         "symbol": "€"
     },
     "FJD": {
         "code": "FJD",
         "numeric": "242",
-        "nameEn": "Fiji dollar",
-        "nameEs": "Dólar fiyiano",
+        "name-en": "Fiji dollar",
+        "name-es": "Dólar fiyiano",
         "countries": ["FJ"],
         "symbol": "$"
     },
     "FKP": {
         "code": "FKP",
         "numeric": "238",
-        "nameEn": "Falkland Islands pound",
-        "nameEs": "Libra malvinense",
+        "name-en": "Falkland Islands pound",
+        "name-es": "Libra malvinense",
         "countries": ["FK"],
         "symbol": "£"
     },
     "GBP": {
         "code": "GBP",
         "numeric": "826",
-        "nameEn": "Pound sterling",
-        "nameEs": "Libra esterlina",
+        "name-en": "Pound sterling",
+        "name-es": "Libra esterlina",
         "countries": ["IO", "GG", "IM", "JE", "GB"],
         "symbol": "£"
     },
     "GEL": {
         "code": "GEL",
         "numeric": "981",
-        "nameEn": "Georgian lari",
-        "nameEs": "Lari",
+        "name-en": "Georgian lari",
+        "name-es": "Lari",
         "countries": ["GE"],
         "symbol": ""
     },
     "GHS": {
         "code": "GHS",
         "numeric": "936",
-        "nameEn": "Ghanaian cedi",
-        "nameEs": "Cedi ghanés",
+        "name-en": "Ghanaian cedi",
+        "name-es": "Cedi ghanés",
         "countries": ["GH"],
         "symbol": ""
     },
     "GIP": {
         "code": "GIP",
         "numeric": "292",
-        "nameEn": "Gibraltar pound",
-        "nameEs": "Libra de Gibraltar",
+        "name-en": "Gibraltar pound",
+        "name-es": "Libra de Gibraltar",
         "countries": ["GI"],
         "symbol": "£"
     },
     "GMD": {
         "code": "GMD",
         "numeric": "270",
-        "nameEn": "Gambian dalasi",
-        "nameEs": "Dalasi",
+        "name-en": "Gambian dalasi",
+        "name-es": "Dalasi",
         "countries": ["GM"],
         "symbol": ""
     },
     "GNF": {
         "code": "GNF",
         "numeric": "324",
-        "nameEn": "Guinean franc",
-        "nameEs": "Franco guineano",
+        "name-en": "Guinean franc",
+        "name-es": "Franco guineano",
         "countries": ["GN"],
         "symbol": ""
     },
     "GTQ": {
         "code": "GTQ",
         "numeric": "320",
-        "nameEn": "Guatemalan quetzal",
-        "nameEs": "Quetzal",
+        "name-en": "Guatemalan quetzal",
+        "name-es": "Quetzal",
         "countries": ["GT"],
         "symbol": "Q"
     },
     "GYD": {
         "code": "GYD",
         "numeric": "328",
-        "nameEn": "Guyanese dollar",
-        "nameEs": "Dólar guyanés",
+        "name-en": "Guyanese dollar",
+        "name-es": "Dólar guyanés",
         "countries": ["GY"],
         "symbol": "$"
     },
     "HKD": {
         "code": "HKD",
         "numeric": "344",
-        "nameEn": "Hong Kong dollar",
-        "nameEs": "Dólar de Hong Kong",
+        "name-en": "Hong Kong dollar",
+        "name-es": "Dólar de Hong Kong",
         "countries": ["HK"],
         "symbol": "$"
     },
     "HNL": {
         "code": "HNL",
         "numeric": "340",
-        "nameEn": "Honduran lempira",
-        "nameEs": "Lempira",
+        "name-en": "Honduran lempira",
+        "name-es": "Lempira",
         "countries": ["HN"],
         "symbol": "L"
     },
     "HRK": {
         "code": "HRK",
         "numeric": "191",
-        "nameEn": "Croatian kuna",
-        "nameEs": "Kuna",
+        "name-en": "Croatian kuna",
+        "name-es": "Kuna",
         "countries": ["HR"],
         "symbol": "kn"
     },
     "HTG": {
         "code": "HTG",
         "numeric": "332",
-        "nameEn": "Haitian gourde",
-        "nameEs": "Gourde",
+        "name-en": "Haitian gourde",
+        "name-es": "Gourde",
         "countries": ["HT"],
         "symbol": ""
     },
     "HUF": {
         "code": "HUF",
         "numeric": "348",
-        "nameEn": "Hungarian forint",
-        "nameEs": "Forinto",
+        "name-en": "Hungarian forint",
+        "name-es": "Forinto",
         "countries": ["HU"],
         "symbol": "Ft"
     },
     "IDR": {
         "code": "IDR",
         "numeric": "360",
-        "nameEn": "Indonesian rupiah",
-        "nameEs": "Rupia indonesia",
+        "name-en": "Indonesian rupiah",
+        "name-es": "Rupia indonesia",
         "countries": ["ID"],
         "symbol": "Rp"
     },
     "ILS": {
         "code": "ILS",
         "numeric": "376",
-        "nameEn": "Israeli new shekel",
-        "nameEs": "Nuevo shéquel israelí",
+        "name-en": "Israeli new shekel",
+        "name-es": "Nuevo shéquel israelí",
         "countries": ["IL"],
         "symbol": "₪"
     },
     "INR": {
         "code": "INR",
         "numeric": "356",
-        "nameEn": "Indian rupee",
-        "nameEs": "Rupia india",
+        "name-en": "Indian rupee",
+        "name-es": "Rupia india",
         "countries": ["BT", "IN"],
         "symbol": "₹"
     },
     "IQD": {
         "code": "IQD",
         "numeric": "368",
-        "nameEn": "Iraqi dinar",
-        "nameEs": "Dinar iraquí",
+        "name-en": "Iraqi dinar",
+        "name-es": "Dinar iraquí",
         "countries": ["IQ"],
         "symbol": ""
     },
     "IRR": {
         "code": "IRR",
         "numeric": "364",
-        "nameEn": "Iranian rial",
-        "nameEs": "Rial iraní",
+        "name-en": "Iranian rial",
+        "name-es": "Rial iraní",
         "countries": ["IR"],
         "symbol": "﷼"
     },
     "ISK": {
         "code": "ISK",
         "numeric": "352",
-        "nameEn": "Icelandic króna",
-        "nameEs": "Corona islandesa",
+        "name-en": "Icelandic króna",
+        "name-es": "Corona islandesa",
         "countries": ["IS"],
         "symbol": "kr"
     },
     "JMD": {
         "code": "JMD",
         "numeric": "388",
-        "nameEn": "Jamaican dollar",
-        "nameEs": "Dólar jamaiquino",
+        "name-en": "Jamaican dollar",
+        "name-es": "Dólar jamaiquino",
         "countries": ["JM"],
         "symbol": "J$"
     },
     "JOD": {
         "code": "JOD",
         "numeric": "400",
-        "nameEn": "Jordanian dinar",
-        "nameEs": "Dinar jordano",
+        "name-en": "Jordanian dinar",
+        "name-es": "Dinar jordano",
         "countries": ["JO"],
         "symbol": ""
     },
     "JPY": {
         "code": "JPY",
         "numeric": "392",
-        "nameEn": "Japanese yen",
-        "nameEs": "Yen",
+        "name-en": "Japanese yen",
+        "name-es": "Yen",
         "countries": ["JP"],
         "symbol": "¥"
     },
     "KES": {
         "code": "KES",
         "numeric": "404",
-        "nameEn": "Kenyan shilling",
-        "nameEs": "Chelín keniano",
+        "name-en": "Kenyan shilling",
+        "name-es": "Chelín keniano",
         "countries": ["KE"],
         "symbol": "KSh"
     },
     "KGS": {
         "code": "KGS",
         "numeric": "417",
-        "nameEn": "Kyrgyzstani som",
-        "nameEs": "Som",
+        "name-en": "Kyrgyzstani som",
+        "name-es": "Som",
         "countries": ["KG"],
         "symbol": "лв"
     },
     "KHR": {
         "code": "KHR",
         "numeric": "116",
-        "nameEn": "Cambodian riel",
-        "nameEs": "Riel",
+        "name-en": "Cambodian riel",
+        "name-es": "Riel",
         "countries": ["KH"],
         "symbol": "៛"
     },
     "KMF": {
         "code": "KMF",
         "numeric": "174",
-        "nameEn": "Comoro franc",
-        "nameEs": "Franco comorense",
+        "name-en": "Comoro franc",
+        "name-es": "Franco comorense",
         "countries": ["KM"],
         "symbol": ""
     },
     "KPW": {
         "code": "KPW",
         "numeric": "408",
-        "nameEn": "North Korean won",
-        "nameEs": "Won norcoreano",
+        "name-en": "North Korean won",
+        "name-es": "Won norcoreano",
         "countries": ["KP"],
         "symbol": "₩"
     },
     "KRW": {
         "code": "KRW",
         "numeric": "410",
-        "nameEn": "South Korean won",
-        "nameEs": "Won",
+        "name-en": "South Korean won",
+        "name-es": "Won",
         "countries": ["KR"],
         "symbol": "₩"
     },
     "KWD": {
         "code": "KWD",
         "numeric": "414",
-        "nameEn": "Kuwaiti dinar",
-        "nameEs": "Dinar kuwaití",
+        "name-en": "Kuwaiti dinar",
+        "name-es": "Dinar kuwaití",
         "countries": ["KW"],
         "symbol": ""
     },
     "KYD": {
         "code": "KYD",
         "numeric": "136",
-        "nameEn": "Cayman Islands dollar",
-        "nameEs": "Dólar de las Islas Caimán",
+        "name-en": "Cayman Islands dollar",
+        "name-es": "Dólar de las Islas Caimán",
         "countries": ["KY"],
         "symbol": "$"
     },
     "KZT": {
         "code": "KZT",
         "numeric": "398",
-        "nameEn": "Kazakhstani tenge",
-        "nameEs": "Tenge",
+        "name-en": "Kazakhstani tenge",
+        "name-es": "Tenge",
         "countries": ["KZ"],
         "symbol": "лв"
     },
     "LAK": {
         "code": "LAK",
         "numeric": "418",
-        "nameEn": "Lao kip",
-        "nameEs": "Kip",
+        "name-en": "Lao kip",
+        "name-es": "Kip",
         "countries": ["LA"],
         "symbol": "₭"
     },
     "LBP": {
         "code": "LBP",
         "numeric": "422",
-        "nameEn": "Lebanese pound",
-        "nameEs": "Libra libanesa",
+        "name-en": "Lebanese pound",
+        "name-es": "Libra libanesa",
         "countries": ["LB"],
         "symbol": "£"
     },
     "LKR": {
         "code": "LKR",
         "numeric": "144",
-        "nameEn": "Sri Lankan rupee",
-        "nameEs": "Rupia de Sri Lanka",
+        "name-en": "Sri Lankan rupee",
+        "name-es": "Rupia de Sri Lanka",
         "countries": ["LK"],
         "symbol": "₨"
     },
     "LRD": {
         "code": "LRD",
         "numeric": "430",
-        "nameEn": "Liberian dollar",
-        "nameEs": "Dólar liberiano",
+        "name-en": "Liberian dollar",
+        "name-es": "Dólar liberiano",
         "countries": ["LR"],
         "symbol": "$"
     },
     "LSL": {
         "code": "LSL",
         "numeric": "426",
-        "nameEn": "Lesotho loti",
-        "nameEs": "Loti",
+        "name-en": "Lesotho loti",
+        "name-es": "Loti",
         "countries": ["LS"],
         "symbol": ""
     },
     "LYD": {
         "code": "LYD",
         "numeric": "434",
-        "nameEn": "Libyan dinar",
-        "nameEs": "Dinar libio",
+        "name-en": "Libyan dinar",
+        "name-es": "Dinar libio",
         "countries": ["LY"],
         "symbol": ""
     },
     "MAD": {
         "code": "MAD",
         "numeric": "504",
-        "nameEn": "Moroccan dirham",
-        "nameEs": "Dírham marroquí",
+        "name-en": "Moroccan dirham",
+        "name-es": "Dírham marroquí",
         "countries": ["MA", "EH"],
         "symbol": ""
     },
     "MDL": {
         "code": "MDL",
         "numeric": "498",
-        "nameEn": "Moldovan leu",
-        "nameEs": "Leu moldavo",
+        "name-en": "Moldovan leu",
+        "name-es": "Leu moldavo",
         "countries": ["MD"],
         "symbol": ""
     },
     "MGA": {
         "code": "MGA",
         "numeric": "969",
-        "nameEn": "Malagasy ariary",
-        "nameEs": "Ariary malgache",
+        "name-en": "Malagasy ariary",
+        "name-es": "Ariary malgache",
         "countries": ["MG"],
         "symbol": ""
     },
     "MKD": {
         "code": "MKD",
         "numeric": "807",
-        "nameEn": "Macedonian denar",
-        "nameEs": "Denar",
+        "name-en": "Macedonian denar",
+        "name-es": "Denar",
         "countries": ["MK"],
         "symbol": "ден"
     },
     "MMK": {
         "code": "MMK",
         "numeric": "104",
-        "nameEn": "Myanmar kyat",
-        "nameEs": "Kyat",
+        "name-en": "Myanmar kyat",
+        "name-es": "Kyat",
         "countries": ["MM"],
         "symbol": ""
     },
     "MNT": {
         "code": "MNT",
         "numeric": "496",
-        "nameEn": "Mongolian tögrög",
-        "nameEs": "Tugrik",
+        "name-en": "Mongolian tögrög",
+        "name-es": "Tugrik",
         "countries": ["MN"],
         "symbol": "₮"
     },
     "MOP": {
         "code": "MOP",
         "numeric": "446",
-        "nameEn": "Macanese pataca",
-        "nameEs": "Pataca",
+        "name-en": "Macanese pataca",
+        "name-es": "Pataca",
         "countries": ["MO"],
         "symbol": ""
     },
     "MRU": {
         "code": "MRU",
         "numeric": "929",
-        "nameEn": "Mauritanian ouguiya",
+        "name-en": "Mauritanian ouguiya",
+        "name-es": "Mauritanian ouguiya",
         "countries": ["MR"],
         "symbol": ""
     },
     "MUR": {
         "code": "MUR",
         "numeric": "480",
-        "nameEn": "Mauritian rupee",
-        "nameEs": "Rupia de Mauricio",
+        "name-en": "Mauritian rupee",
+        "name-es": "Rupia de Mauricio",
         "countries": ["MU"],
         "symbol": "₨"
     },
     "MVR": {
         "code": "MVR",
         "numeric": "462",
-        "nameEn": "Maldivian rufiyaa",
-        "nameEs": "Rufiyaa",
+        "name-en": "Maldivian rufiyaa",
+        "name-es": "Rufiyaa",
         "countries": ["MV"],
         "symbol": ""
     },
     "MWK": {
         "code": "MWK",
         "numeric": "454",
-        "nameEn": "Malawian kwacha",
-        "nameEs": "Kwacha",
+        "name-en": "Malawian kwacha",
+        "name-es": "Kwacha",
         "countries": ["MW"],
         "symbol": ""
     },
     "MXN": {
         "code": "MXN",
         "numeric": "484",
-        "nameEn": "Mexican peso",
-        "nameEs": "Peso mexicano",
+        "name-en": "Mexican peso",
+        "name-es": "Peso mexicano",
         "countries": ["MX"],
         "symbol": "$"
     },
     "MXV": {
         "code": "MXV",
         "numeric": "979",
-        "nameEn": "Mexican Unidad de Inversion (UDI) (funds code)",
-        "nameEs": "Unidad de Inversión (UDI) mexicana",
+        "name-en": "Mexican Unidad de Inversion (UDI) (funds code)",
+        "name-es": "Unidad de Inversión (UDI) mexicana",
         "countries": ["MX"],
         "symbol": ""
     },
     "MYR": {
         "code": "MYR",
         "numeric": "458",
-        "nameEn": "Malaysian ringgit",
-        "nameEs": "Ringgit malayo",
+        "name-en": "Malaysian ringgit",
+        "name-es": "Ringgit malayo",
         "countries": ["MY"],
         "symbol": "RM"
     },
     "MZN": {
         "code": "MZN",
         "numeric": "943",
-        "nameEn": "Mozambican metical",
-        "nameEs": "Metical mozambiqueño",
+        "name-en": "Mozambican metical",
+        "name-es": "Metical mozambiqueño",
         "countries": ["MZ"],
         "symbol": ""
     },
     "NAD": {
         "code": "NAD",
         "numeric": "516",
-        "nameEn": "Namibian dollar",
-        "nameEs": "Dólar namibio",
+        "name-en": "Namibian dollar",
+        "name-es": "Dólar namibio",
         "countries": ["NA"],
         "symbol": "$"
     },
     "NGN": {
         "code": "NGN",
         "numeric": "566",
-        "nameEn": "Nigerian naira",
-        "nameEs": "Naira",
+        "name-en": "Nigerian naira",
+        "name-es": "Naira",
         "countries": ["NG"],
         "symbol": "₦"
     },
     "NIO": {
         "code": "NIO",
         "numeric": "558",
-        "nameEn": "Nicaraguan córdoba",
-        "nameEs": "Córdoba",
+        "name-en": "Nicaraguan córdoba",
+        "name-es": "Córdoba",
         "countries": ["NI"],
         "symbol": "C$"
     },
     "NOK": {
         "code": "NOK",
         "numeric": "578",
-        "nameEn": "Norwegian krone",
-        "nameEs": "Corona noruega",
+        "name-en": "Norwegian krone",
+        "name-es": "Corona noruega",
         "countries": ["BV", "NO", "SJ"],
         "symbol": "kr"
     },
     "NPR": {
         "code": "NPR",
         "numeric": "524",
-        "nameEn": "Nepalese rupee",
-        "nameEs": "Rupia nepalí",
+        "name-en": "Nepalese rupee",
+        "name-es": "Rupia nepalí",
         "countries": ["NP"],
         "symbol": "₨"
     },
     "NZD": {
         "code": "NZD",
         "numeric": "554",
-        "nameEn": "New Zealand dollar",
-        "nameEs": "Dólar neozelandés",
+        "name-en": "New Zealand dollar",
+        "name-es": "Dólar neozelandés",
         "countries": ["CK", "NZ", "NU", "PN", "TK"],
         "symbol": "$"
     },
     "OMR": {
         "code": "OMR",
         "numeric": "512",
-        "nameEn": "Omani rial",
-        "nameEs": "Rial omaní",
+        "name-en": "Omani rial",
+        "name-es": "Rial omaní",
         "countries": ["OM"],
         "symbol": "﷼"
     },
     "PAB": {
         "code": "PAB",
         "numeric": "590",
-        "nameEn": "Panamanian balboa",
-        "nameEs": "Balboa",
+        "name-en": "Panamanian balboa",
+        "name-es": "Balboa",
         "countries": ["PA"],
         "symbol": "B/."
     },
     "PEN": {
         "code": "PEN",
         "numeric": "604",
-        "nameEn": "Peruvian sol",
-        "nameEs": "Sol",
+        "name-en": "Peruvian sol",
+        "name-es": "Sol",
         "countries": ["PE"],
         "symbol": "S/."
     },
     "PGK": {
         "code": "PGK",
         "numeric": "598",
-        "nameEn": "Papua New Guinean kina",
-        "nameEs": "Kina",
+        "name-en": "Papua New Guinean kina",
+        "name-es": "Kina",
         "countries": ["PG"],
         "symbol": ""
     },
     "PHP": {
         "code": "PHP",
         "numeric": "608",
-        "nameEn": "Philippine peso[13]",
-        "nameEs": "Peso filipino",
+        "name-en": "Philippine peso[13]",
+        "name-es": "Peso filipino",
         "countries": ["PH"],
         "symbol": "₱"
     },
     "PKR": {
         "code": "PKR",
         "numeric": "586",
-        "nameEn": "Pakistani rupee",
-        "nameEs": "Rupia pakistaní",
+        "name-en": "Pakistani rupee",
+        "name-es": "Rupia pakistaní",
         "countries": ["PK"],
         "symbol": "₨"
     },
     "PLN": {
         "code": "PLN",
         "numeric": "985",
-        "nameEn": "Polish złoty",
-        "nameEs": "Złoty",
+        "name-en": "Polish złoty",
+        "name-es": "Złoty",
         "countries": ["PL"],
         "symbol": "zł"
     },
     "PYG": {
         "code": "PYG",
         "numeric": "600",
-        "nameEn": "Paraguayan guaraní",
-        "nameEs": "Guaraní",
+        "name-en": "Paraguayan guaraní",
+        "name-es": "Guaraní",
         "countries": ["PY"],
         "symbol": "Gs"
     },
     "QAR": {
         "code": "QAR",
         "numeric": "634",
-        "nameEn": "Qatari riyal",
-        "nameEs": "Rial catarí",
+        "name-en": "Qatari riyal",
+        "name-es": "Rial catarí",
         "countries": ["QA"],
         "symbol": "﷼"
     },
     "RON": {
         "code": "RON",
         "numeric": "946",
-        "nameEn": "Romanian leu",
-        "nameEs": "Leu rumano",
+        "name-en": "Romanian leu",
+        "name-es": "Leu rumano",
         "countries": ["RO"],
         "symbol": "lei"
     },
     "RSD": {
         "code": "RSD",
         "numeric": "941",
-        "nameEn": "Serbian dinar",
-        "nameEs": "Dinar serbio",
+        "name-en": "Serbian dinar",
+        "name-es": "Dinar serbio",
         "countries": ["RS"],
         "symbol": "Дин."
     },
     "RUB": {
         "code": "RUB",
         "numeric": "643",
-        "nameEn": "Russian ruble",
-        "nameEs": "Rublo ruso",
+        "name-en": "Russian ruble",
+        "name-es": "Rublo ruso",
         "countries": ["RU"],
         "symbol": "руб"
     },
     "RWF": {
         "code": "RWF",
         "numeric": "646",
-        "nameEn": "Rwandan franc",
-        "nameEs": "Franco ruandés",
+        "name-en": "Rwandan franc",
+        "name-es": "Franco ruandés",
         "countries": ["RW"],
         "symbol": ""
     },
     "SAR": {
         "code": "SAR",
         "numeric": "682",
-        "nameEn": "Saudi riyal",
-        "nameEs": "Rial saudí",
+        "name-en": "Saudi riyal",
+        "name-es": "Rial saudí",
         "countries": ["SA"],
         "symbol": "﷼"
     },
     "SBD": {
         "code": "SBD",
         "numeric": "090",
-        "nameEn": "Solomon Islands dollar",
-        "nameEs": "Dólar de las Islas Salomón",
+        "name-en": "Solomon Islands dollar",
+        "name-es": "Dólar de las Islas Salomón",
         "countries": ["SB"],
         "symbol": "$"
     },
     "SCR": {
         "code": "SCR",
         "numeric": "690",
-        "nameEn": "Seychelles rupee",
-        "nameEs": "Rupia seychelense",
+        "name-en": "Seychelles rupee",
+        "name-es": "Rupia seychelense",
         "countries": ["SC"],
         "symbol": "₨"
     },
     "SDG": {
         "code": "SDG",
         "numeric": "938",
-        "nameEn": "Sudanese pound",
-        "nameEs": "Libra sudanesa",
+        "name-en": "Sudanese pound",
+        "name-es": "Libra sudanesa",
         "countries": ["SD"],
         "symbol": ""
     },
     "SEK": {
         "code": "SEK",
         "numeric": "752",
-        "nameEn": "Swedish krona/kronor",
-        "nameEs": "Corona sueca",
+        "name-en": "Swedish krona/kronor",
+        "name-es": "Corona sueca",
         "countries": ["SE"],
         "symbol": "kr"
     },
     "SGD": {
         "code": "SGD",
         "numeric": "702",
-        "nameEn": "Singapore dollar",
-        "nameEs": "Dólar de Singapur",
+        "name-en": "Singapore dollar",
+        "name-es": "Dólar de Singapur",
         "countries": ["SG"],
         "symbol": "$"
     },
     "SHP": {
         "code": "SHP",
         "numeric": "654",
-        "nameEn": "Saint Helena pound",
-        "nameEs": "Libra de Santa Elena",
+        "name-en": "Saint Helena pound",
+        "name-es": "Libra de Santa Elena",
         "countries": ["SH"],
         "symbol": "£"
     },
     "SLL": {
         "code": "SLL",
         "numeric": "694",
-        "nameEn": "Sierra Leonean leone",
-        "nameEs": "Leone",
+        "name-en": "Sierra Leonean leone",
+        "name-es": "Leone",
         "countries": ["SL"],
         "symbol": ""
     },
     "SOS": {
         "code": "SOS",
         "numeric": "706",
-        "nameEn": "Somali shilling",
-        "nameEs": "Chelín somalí",
+        "name-en": "Somali shilling",
+        "name-es": "Chelín somalí",
         "countries": ["SO"],
         "symbol": "S"
     },
     "SRD": {
         "code": "SRD",
         "numeric": "968",
-        "nameEn": "Surinamese dollar",
-        "nameEs": "Dólar surinamés",
+        "name-en": "Surinamese dollar",
+        "name-es": "Dólar surinamés",
         "countries": ["SR"],
         "symbol": "$"
     },
     "SSP": {
         "code": "SSP",
         "numeric": "728",
-        "nameEn": "South Sudanese pound",
-        "nameEs": "Libra sursudanesa",
+        "name-en": "South Sudanese pound",
+        "name-es": "Libra sursudanesa",
         "countries": ["SS"],
         "symbol": ""
     },
     "STN": {
         "code": "STN",
         "numeric": "930",
-        "nameEn": "São Tomé and Príncipe dobra",
+        "name-en": "São Tomé and Príncipe dobra",
+        "name-es": "São Tomé and Príncipe dobra",
         "countries": ["ST"],
         "symbol": ""
     },
     "SVC": {
         "code": "SVC",
         "numeric": "222",
-        "nameEn": "Salvadoran colón",
-        "nameEs": "",
+        "name-en": "Salvadoran colón",
+        "name-es": "",
         "countries": ["SV"],
         "symbol": ""
     },
     "SYP": {
         "code": "SYP",
         "numeric": "760",
-        "nameEn": "Syrian pound",
-        "nameEs": "Libra siria",
+        "name-en": "Syrian pound",
+        "name-es": "Libra siria",
         "countries": ["SY"],
         "symbol": "£"
     },
     "SZL": {
         "code": "SZL",
         "numeric": "748",
-        "nameEn": "Swazi lilangeni",
-        "nameEs": "Lilangeni",
+        "name-en": "Swazi lilangeni",
+        "name-es": "Lilangeni",
         "countries": ["SZ"],
         "symbol": ""
     },
     "THB": {
         "code": "THB",
         "numeric": "764",
-        "nameEn": "Thai baht",
-        "nameEs": "Baht",
+        "name-en": "Thai baht",
+        "name-es": "Baht",
         "countries": ["TH"],
         "symbol": "฿"
     },
     "TJS": {
         "code": "TJS",
         "numeric": "972",
-        "nameEn": "Tajikistani somoni",
-        "nameEs": "Somoni tayiko",
+        "name-en": "Tajikistani somoni",
+        "name-es": "Somoni tayiko",
         "countries": ["TJ"],
         "symbol": ""
     },
     "TMT": {
         "code": "TMT",
         "numeric": "934",
-        "nameEn": "Turkmenistan manat",
-        "nameEs": "Manat turcomano",
+        "name-en": "Turkmenistan manat",
+        "name-es": "Manat turcomano",
         "countries": ["TM"],
         "symbol": ""
     },
     "TND": {
         "code": "TND",
         "numeric": "788",
-        "nameEn": "Tunisian dinar",
-        "nameEs": "Dinar tunecino",
+        "name-en": "Tunisian dinar",
+        "name-es": "Dinar tunecino",
         "countries": ["TN"],
         "symbol": ""
     },
     "TOP": {
         "code": "TOP",
         "numeric": "776",
-        "nameEn": "Tongan paʻanga",
-        "nameEs": "Paʻanga",
+        "name-en": "Tongan paʻanga",
+        "name-es": "Paʻanga",
         "countries": ["TO"],
         "symbol": ""
     },
     "TRY": {
         "code": "TRY",
         "numeric": "949",
-        "nameEn": "Turkish lira",
-        "nameEs": "Lira turca",
+        "name-en": "Turkish lira",
+        "name-es": "Lira turca",
         "countries": ["TR", "CY"],
         "symbol": ""
     },
     "TTD": {
         "code": "TTD",
         "numeric": "780",
-        "nameEn": "Trinidad and Tobago dollar",
-        "nameEs": "Dólar de Trinidad y Tobago",
+        "name-en": "Trinidad and Tobago dollar",
+        "name-es": "Dólar de Trinidad y Tobago",
         "countries": ["TT"],
         "symbol": "TT$"
     },
     "TWD": {
         "code": "TWD",
         "numeric": "901",
-        "nameEn": "New Taiwan dollar",
-        "nameEs": "Nuevo dólar taiwanés",
+        "name-en": "New Taiwan dollar",
+        "name-es": "Nuevo dólar taiwanés",
         "countries": ["TW"],
         "symbol": "NT$"
     },
     "TZS": {
         "code": "TZS",
         "numeric": "834",
-        "nameEn": "Tanzanian shilling",
-        "nameEs": "Chelín tanzano",
+        "name-en": "Tanzanian shilling",
+        "name-es": "Chelín tanzano",
         "countries": ["TZ"],
         "symbol": "TSh"
     },
     "UAH": {
         "code": "UAH",
         "numeric": "980",
-        "nameEn": "Ukrainian hryvnia",
-        "nameEs": "Grivna",
+        "name-en": "Ukrainian hryvnia",
+        "name-es": "Grivna",
         "countries": ["UA"],
         "symbol": "₴"
     },
     "UGX": {
         "code": "UGX",
         "numeric": "800",
-        "nameEn": "Ugandan shilling",
-        "nameEs": "Chelín ugandés",
+        "name-en": "Ugandan shilling",
+        "name-es": "Chelín ugandés",
         "countries": ["UG"],
         "symbol": "USh"
     },
     "USD": {
         "code": "USD",
         "numeric": "840",
-        "nameEn": "United States dollar",
-        "nameEs": "Dólar estadounidense",
+        "name-en": "United States dollar",
+        "name-es": "Dólar estadounidense",
         "countries": ["AS", "BB", "BM", "BQ", "IO", "EC", "SV", "GU", "HT", "MH", "FM", "MP", "PW", "PA", "PR", "TL", "TC", "UM", "US", "VI"],
         "symbol": "$"
     },
     "USN": {
         "code": "USN",
         "numeric": "997",
-        "nameEn": "United States dollar (next day) (funds code)",
-        "nameEs": "Dólar estadounidense (Siguiente día)",
+        "name-en": "United States dollar (next day) (funds code)",
+        "name-es": "Dólar estadounidense (Siguiente día)",
         "countries": ["US"],
         "symbol": ""
     },
     "UYI": {
         "code": "UYI",
         "numeric": "940",
-        "nameEn": "Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code)",
-        "nameEs": "Peso en Unidades Indexadas (Uruguay)",
+        "name-en": "Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code)",
+        "name-es": "Peso en Unidades Indexadas (Uruguay)",
         "countries": ["UY"],
         "symbol": ""
     },
     "UYU": {
         "code": "UYU",
         "numeric": "858",
-        "nameEn": "Uruguayan peso",
-        "nameEs": "Peso uruguayo",
+        "name-en": "Uruguayan peso",
+        "name-es": "Peso uruguayo",
         "countries": ["UY"],
         "symbol": "$U"
     },
     "UYW": {
         "code": "UYW",
         "numeric": "927",
-        "nameEn": "Unidad previsional[15]",
+        "name-en": "Unidad previsional[15]",
+        "name-es": "Unidad previsional[15]",
         "countries": ["UY"],
         "symbol": ""
     },
     "UZS": {
         "code": "UZS",
         "numeric": "860",
-        "nameEn": "Uzbekistan som",
-        "nameEs": "Som uzbeko",
+        "name-en": "Uzbekistan som",
+        "name-es": "Som uzbeko",
         "countries": ["UZ"],
         "symbol": "лв"
     },
     "VES": {
         "code": "VES",
         "numeric": "928",
-        "nameEn": "Venezuelan bolívar soberano[13]",
+        "name-en": "Venezuelan bolívar soberano[13]",
+        "name-es": "Venezuelan bolívar soberano[13]",
         "countries": ["VE"],
         "symbol": ""
     },
     "VND": {
         "code": "VND",
         "numeric": "704",
-        "nameEn": "Vietnamese đồng",
-        "nameEs": "Dong vietnamita",
+        "name-en": "Vietnamese đồng",
+        "name-es": "Dong vietnamita",
         "countries": ["VN"],
         "symbol": "₫"
     },
     "VUV": {
         "code": "VUV",
         "numeric": "548",
-        "nameEn": "Vanuatu vatu",
-        "nameEs": "Vatu",
+        "name-en": "Vanuatu vatu",
+        "name-es": "Vatu",
         "countries": ["VU"],
         "symbol": ""
     },
     "WST": {
         "code": "WST",
         "numeric": "882",
-        "nameEn": "Samoan tala",
-        "nameEs": "Tala",
+        "name-en": "Samoan tala",
+        "name-es": "Tala",
         "countries": ["WS"],
         "symbol": ""
     },
     "XAF": {
         "code": "XAF",
         "numeric": "950",
-        "nameEn": "CFA franc BEAC",
-        "nameEs": "Franco CFA de África Central",
+        "name-en": "CFA franc BEAC",
+        "name-es": "Franco CFA de África Central",
         "countries": ["CM", "CF", "TD", "CG", "GQ", "GA"],
         "symbol": ""
     },
     "XAG": {
         "code": "XAG",
         "numeric": "961",
-        "nameEn": "Silver (one troy ounce)",
-        "nameEs": "Plata (una onza troy)",
+        "name-en": "Silver (one troy ounce)",
+        "name-es": "Plata (una onza troy)",
         "countries": [],
         "symbol": ""
     },
     "XAU": {
         "code": "XAU",
         "numeric": "959",
-        "nameEn": "Gold (one troy ounce)",
-        "nameEs": "Oro (una onza troy)",
+        "name-en": "Gold (one troy ounce)",
+        "name-es": "Oro (una onza troy)",
         "countries": [],
         "symbol": ""
     },
     "XBA": {
         "code": "XBA",
         "numeric": "955",
-        "nameEn": "European Composite Unit (EURCO) (bond market unit)",
-        "nameEs": "Unidad compuesta europea (EURCO) (Unidad del mercados de bonos)",
+        "name-en": "European Composite Unit (EURCO) (bond market unit)",
+        "name-es": "Unidad compuesta europea (EURCO) (Unidad del mercados de bonos)",
         "countries": [],
         "symbol": ""
     },
     "XBB": {
         "code": "XBB",
         "numeric": "956",
-        "nameEn": "European Monetary Unit (E.M.U.-6) (bond market unit)",
-        "nameEs": "Unidad Monetaria europea (E.M.U.-6) (Unidad del mercado de bonos)",
+        "name-en": "European Monetary Unit (E.M.U.-6) (bond market unit)",
+        "name-es": "Unidad Monetaria europea (E.M.U.-6) (Unidad del mercado de bonos)",
         "countries": [],
         "symbol": ""
     },
     "XBC": {
         "code": "XBC",
         "numeric": "957",
-        "nameEn": "European Unit of Account 9 (E.U.A.-9) (bond market unit)",
-        "nameEs": "Unidad europea de cuenta 9 (E.U.A.-9) (Unidad del mercado de bonos)",
+        "name-en": "European Unit of Account 9 (E.U.A.-9) (bond market unit)",
+        "name-es": "Unidad europea de cuenta 9 (E.U.A.-9) (Unidad del mercado de bonos)",
         "countries": [],
         "symbol": ""
     },
     "XBD": {
         "code": "XBD",
         "numeric": "958",
-        "nameEn": "European Unit of Account 17 (E.U.A.-17) (bond market unit)",
-        "nameEs": "Unidad europea de cuenta 17 (E.U.A.-17) (Unidad del mercado de bonos)",
+        "name-en": "European Unit of Account 17 (E.U.A.-17) (bond market unit)",
+        "name-es": "Unidad europea de cuenta 17 (E.U.A.-17) (Unidad del mercado de bonos)",
         "countries": [],
         "symbol": ""
     },
     "XCD": {
         "code": "XCD",
         "numeric": "951",
-        "nameEn": "East Caribbean dollar",
-        "nameEs": "Dólar del Caribe Oriental",
+        "name-en": "East Caribbean dollar",
+        "name-es": "Dólar del Caribe Oriental",
         "countries": ["AI", "AG", "DM", "GD", "MS", "KN", "LC", "VC"],
         "symbol": "$"
     },
     "XDR": {
         "code": "XDR",
         "numeric": "960",
-        "nameEn": "Special drawing rights",
-        "nameEs": "Derechos especiales de giro",
+        "name-en": "Special drawing rights",
+        "name-es": "Derechos especiales de giro",
         "countries": [],
         "symbol": ""
     },
     "XOF": {
         "code": "XOF",
         "numeric": "952",
-        "nameEn": "CFA franc BCEAO",
-        "nameEs": "Franco CFA de África Occidental",
+        "name-en": "CFA franc BCEAO",
+        "name-es": "Franco CFA de África Occidental",
         "countries": ["BJ", "BF", "CI", "GW", "ML", "NE", "SN", "TG"],
         "symbol": ""
     },
     "XPD": {
         "code": "XPD",
         "numeric": "964",
-        "nameEn": "Palladium (one troy ounce)",
-        "nameEs": "Paladio (una onza troy)",
+        "name-en": "Palladium (one troy ounce)",
+        "name-es": "Paladio (una onza troy)",
         "countries": [],
         "symbol": ""
     },
     "XPF": {
         "code": "XPF",
         "numeric": "953",
-        "nameEn": "CFP franc (franc Pacifique)",
-        "nameEs": "Franco CFP",
+        "name-en": "CFP franc (franc Pacifique)",
+        "name-es": "Franco CFP",
         "countries": ["PF", "NC", "WF"],
         "symbol": ""
     },
     "XPT": {
         "code": "XPT",
         "numeric": "962",
-        "nameEn": "Platinum (one troy ounce)",
-        "nameEs": "Platino (una onza troy)",
+        "name-en": "Platinum (one troy ounce)",
+        "name-es": "Platino (una onza troy)",
         "countries": [],
         "symbol": ""
     },
     "XSU": {
         "code": "XSU",
         "numeric": "994",
-        "nameEn": "SUCRE",
-        "nameEs": "SUCRE",
+        "name-en": "SUCRE",
+        "name-es": "SUCRE",
         "countries": [],
         "symbol": ""
     },
     "XTS": {
         "code": "XTS",
         "numeric": "963",
-        "nameEn": "Code reserved for testing",
-        "nameEs": "Reservado para pruebas",
+        "name-en": "Code reserved for testing",
+        "name-es": "Reservado para pruebas",
         "countries": [],
         "symbol": ""
     },
     "XUA": {
         "code": "XUA",
         "numeric": "965",
-        "nameEn": "ADB Unit of Account",
-        "nameEs": "Unidad de cuenta BAD",
+        "name-en": "ADB Unit of Account",
+        "name-es": "Unidad de cuenta BAD",
         "countries": [],
         "symbol": ""
     },
     "XXX": {
         "code": "XXX",
         "numeric": "999",
-        "nameEn": "No currency ",
-        "nameEs": "Sin divisa",
+        "name-en": "No currency ",
+        "name-es": "Sin divisa",
         "countries": [],
         "symbol": ""
     },
     "YER": {
         "code": "YER",
         "numeric": "886",
-        "nameEn": "Yemeni rial",
-        "nameEs": "Rial yemení",
+        "name-en": "Yemeni rial",
+        "name-es": "Rial yemení",
         "countries": ["YE"],
         "symbol": "﷼"
     },
     "ZAR": {
         "code": "ZAR",
         "numeric": "710",
-        "nameEn": "South African rand",
-        "nameEs": "Rand",
+        "name-en": "South African rand",
+        "name-es": "Rand",
         "countries": ["LS", "NA", "ZA"],
         "symbol": "R"
     },
     "ZMW": {
         "code": "ZMW",
         "numeric": "967",
-        "nameEn": "Zambian kwacha",
-        "nameEs": "Kwacha zambiano",
+        "name-en": "Zambian kwacha",
+        "name-es": "Kwacha zambiano",
         "countries": ["ZM"],
         "symbol": ""
     },
     "ZWL": {
         "code": "ZWL",
         "numeric": "932",
-        "nameEn": "Zimbabwean dollar",
-        "nameEs": "Dólar zimbabuense",
+        "name-en": "Zimbabwean dollar",
+        "name-es": "Dólar zimbabuense",
         "countries": ["ZW"],
         "symbol": ""
     }

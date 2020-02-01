@@ -11,7 +11,8 @@ export default new Vuex.Store({
         status: false
     },
     changeValues: [],
-    countries: []
+    countries: [],
+    currencies: []
   },
   mutations: {
     showLoading(state, payload){
@@ -27,6 +28,9 @@ export default new Vuex.Store({
     },
     setCountries(state, payload){
         state.countries = Object.values(payload);
+    },
+    setCurrencies(state, payload){
+        state.currencies = Object.values(payload);
     }
   },
   actions: {

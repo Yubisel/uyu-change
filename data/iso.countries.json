@@ -1,1991 +1,1991 @@
 {
     "AF": {
-        "nameEn": "Afghanistan",
-        "nameEs": "Afganistán",
+        "name-en": "Afghanistan",
+        "name-es": "Afganistán",
         "alpha2": "AF",
         "alpha3": "AFG",
         "numeric": "004",
         "currencies": ["AFN"]
     },
     "AL": {
-        "nameEn": "Albania",
-        "nameEs": "Albania",
+        "name-en": "Albania",
+        "name-es": "Albania",
         "alpha2": "AL",
         "alpha3": "ALB",
         "numeric": "008",
         "currencies": ["ALL"]
     },
     "DZ": {
-        "nameEn": "Algeria",
-        "nameEs": "Argelia",
+        "name-en": "Algeria",
+        "name-es": "Argelia",
         "alpha2": "DZ",
         "alpha3": "DZA",
         "numeric": "012",
         "currencies": ["DZD"]
     },
     "AS": {
-        "nameEn": "American Samoa",
-        "nameEs": "Samoa Americana",
+        "name-en": "American Samoa",
+        "name-es": "Samoa Americana",
         "alpha2": "AS",
         "alpha3": "ASM",
         "numeric": "016",
         "currencies": ["USD"]
     },
     "AD": {
-        "nameEn": "Andorra",
-        "nameEs": "Andorra",
+        "name-en": "Andorra",
+        "name-es": "Andorra",
         "alpha2": "AD",
         "alpha3": "AND",
         "numeric": "020",
         "currencies": ["EUR"]
     },
     "AO": {
-        "nameEn": "Angola",
-        "nameEs": "Angola",
+        "name-en": "Angola",
+        "name-es": "Angola",
         "alpha2": "AO",
         "alpha3": "AGO",
         "numeric": "024",
         "currencies": ["AOA"]
     },
     "AI": {
-        "nameEn": "Anguilla",
-        "nameEs": "Anguila",
+        "name-en": "Anguilla",
+        "name-es": "Anguila",
         "alpha2": "AI",
         "alpha3": "AIA",
         "numeric": "660",
         "currencies": ["XCD"]
     },
     "AQ": {
-        "nameEn": "Antarctica",
-        "nameEs": "Antártida",
+        "name-en": "Antarctica",
+        "name-es": "Antártida",
         "alpha2": "AQ",
         "alpha3": "ATA",
         "numeric": "010",
         "currencies": []
     },
     "AG": {
-        "nameEn": "Antigua and Barbuda",
-        "nameEs": "Antigua y Barbuda",
+        "name-en": "Antigua and Barbuda",
+        "name-es": "Antigua y Barbuda",
         "alpha2": "AG",
         "alpha3": "ATG",
         "numeric": "028",
         "currencies": ["XCD"]
     },
     "AR": {
-        "nameEn": "Argentina",
-        "nameEs": "Argentina",
+        "name-en": "Argentina",
+        "name-es": "Argentina",
         "alpha2": "AR",
         "alpha3": "ARG",
         "numeric": "032",
         "currencies": ["ARS"]
     },
     "AM": {
-        "nameEn": "Armenia",
-        "nameEs": "Armenia",
+        "name-en": "Armenia",
+        "name-es": "Armenia",
         "alpha2": "AM",
         "alpha3": "ARM",
         "numeric": "051",
         "currencies": ["AMD"]
     },
     "AW": {
-        "nameEn": "Aruba",
-        "nameEs": "Aruba",
+        "name-en": "Aruba",
+        "name-es": "Aruba",
         "alpha2": "AW",
         "alpha3": "ABW",
         "numeric": "533",
         "currencies": ["AWG"]
     },
     "AU": {
-        "nameEn": "Australia",
-        "nameEs": "Australia",
+        "name-en": "Australia",
+        "name-es": "Australia",
         "alpha2": "AU",
         "alpha3": "AUS",
         "numeric": "036",
         "currencies": ["AUD"]
     },
     "AT": {
-        "nameEn": "Austria",
-        "nameEs": "Austria",
+        "name-en": "Austria",
+        "name-es": "Austria",
         "alpha2": "AT",
         "alpha3": "AUT",
         "numeric": "040",
         "currencies": ["EUR"]
     },
     "AZ": {
-        "nameEn": "Azerbaijan",
-        "nameEs": "Azerbaiyán",
+        "name-en": "Azerbaijan",
+        "name-es": "Azerbaiyán",
         "alpha2": "AZ",
         "alpha3": "AZE",
         "numeric": "031",
         "currencies": ["AZN"]
     },
     "BS": {
-        "nameEn": "Bahamas",
-        "nameEs": "Bahamas",
+        "name-en": "Bahamas",
+        "name-es": "Bahamas",
         "alpha2": "BS",
         "alpha3": "BHS",
         "numeric": "044",
         "currencies": ["BSD"]
     },
     "BH": {
-        "nameEn": "Bahrain",
-        "nameEs": "Baréin",
+        "name-en": "Bahrain",
+        "name-es": "Baréin",
         "alpha2": "BH",
         "alpha3": "BHR",
         "numeric": "048",
         "currencies": ["BHD"]
     },
     "BD": {
-        "nameEn": "Bangladesh",
-        "nameEs": "Bangladés",
+        "name-en": "Bangladesh",
+        "name-es": "Bangladés",
         "alpha2": "BD",
         "alpha3": "BGD",
         "numeric": "050",
         "currencies": ["BDT"]
     },
     "BB": {
-        "nameEn": "Barbados",
-        "nameEs": "Barbados",
+        "name-en": "Barbados",
+        "name-es": "Barbados",
         "alpha2": "BB",
         "alpha3": "BRB",
         "numeric": "052",
         "currencies": ["BBD", "USD"]
     },
     "BY": {
-        "nameEn": "Belarus",
-        "nameEs": "Bielorrusia",
+        "name-en": "Belarus",
+        "name-es": "Bielorrusia",
         "alpha2": "BY",
         "alpha3": "BLR",
         "numeric": "112",
         "currencies": ["BYN"]
     },
     "BE": {
-        "nameEn": "Belgium",
-        "nameEs": "Bélgica",
+        "name-en": "Belgium",
+        "name-es": "Bélgica",
         "alpha2": "BE",
         "alpha3": "BEL",
         "numeric": "056",
         "currencies": ["EUR"]
     },
     "BZ": {
-        "nameEn": "Belize",
-        "nameEs": "Belice",
+        "name-en": "Belize",
+        "name-es": "Belice",
         "alpha2": "BZ",
         "alpha3": "BLZ",
         "numeric": "084",
         "currencies": ["BZD"]
     },
     "BJ": {
-        "nameEn": "Benin",
-        "nameEs": "Benín",
+        "name-en": "Benin",
+        "name-es": "Benín",
         "alpha2": "BJ",
         "alpha3": "BEN",
         "numeric": "204",
         "currencies": ["XOF"]
     },
     "BM": {
-        "nameEn": "Bermuda",
-        "nameEs": "Bermudas",
+        "name-en": "Bermuda",
+        "name-es": "Bermudas",
         "alpha2": "BM",
         "alpha3": "BMU",
         "numeric": "060",
         "currencies": ["BMD", "USD"]
     },
     "BT": {
-        "nameEn": "Bhutan",
-        "nameEs": "Bután",
+        "name-en": "Bhutan",
+        "name-es": "Bután",
         "alpha2": "BT",
         "alpha3": "BTN",
         "numeric": "064",
         "currencies": ["BTN", "INR"]
     },
     "BO": {
-        "nameEn": "Bolivia (Plurinational State of)",
-        "nameEs": "Bolivia",
+        "name-en": "Bolivia (Plurinational State of)",
+        "name-es": "Bolivia",
         "alpha2": "BO",
         "alpha3": "BOL",
         "numeric": "068",
         "currencies": ["BOB", "BOV"]
     },
     "BQ": {
-        "nameEn": "Caribbean Netherlands - Bonaire, Sint Eustatius and Saba",
-        "nameEs": "Bonaire, San Eustaquio y Saba",
+        "name-en": "Caribbean Netherlands - Bonaire, Sint Eustatius and Saba",
+        "name-es": "Bonaire, San Eustaquio y Saba",
         "alpha2": "BQ",
         "alpha3": "BES",
         "numeric": "BQ",
         "currencies": ["USD"]
     },
     "BA": {
-        "nameEn": "Bosnia and Herzegovina",
-        "nameEs": "Bosnia y Herzegovina",
+        "name-en": "Bosnia and Herzegovina",
+        "name-es": "Bosnia y Herzegovina",
         "alpha2": "BA",
         "alpha3": "BIH",
         "numeric": "070",
         "currencies": ["BAM"]
     },
     "BW": {
-        "nameEn": "Botswana",
-        "nameEs": "Botsuana",
+        "name-en": "Botswana",
+        "name-es": "Botsuana",
         "alpha2": "BW",
         "alpha3": "BWA",
         "numeric": "072",
         "currencies": ["BWP"]
     },
     "BV": {
-        "nameEn": "Bouvet Island",
-        "nameEs": "Isla Bouvet",
+        "name-en": "Bouvet Island",
+        "name-es": "Isla Bouvet",
         "alpha2": "BV",
         "alpha3": "BVT",
         "numeric": "074",
         "currencies": ["NOK"]
     },
     "BR": {
-        "nameEn": "Brazil",
-        "nameEs": "Brasil",
+        "name-en": "Brazil",
+        "name-es": "Brasil",
         "alpha2": "BR",
         "alpha3": "BRA",
         "numeric": "076",
         "currencies": ["BRL"]
     },
     "IO": {
-        "nameEn": "British Indian Ocean Territory",
-        "nameEs": "Territorio Británico del Océano Índico",
+        "name-en": "British Indian Ocean Territory",
+        "name-es": "Territorio Británico del Océano Índico",
         "alpha2": "IO",
         "alpha3": "IOT",
         "numeric": "086",
         "currencies": ["GBP", "USD"]
     },
     "BN": {
-        "nameEn": "Brunei Darussalam",
-        "nameEs": "Brunéi",
+        "name-en": "Brunei Darussalam",
+        "name-es": "Brunéi",
         "alpha2": "BN",
         "alpha3": "BRN",
         "numeric": "096",
         "currencies": ["BND"]
     },
     "BG": {
-        "nameEn": "Bulgaria",
-        "nameEs": "Bulgaria",
+        "name-en": "Bulgaria",
+        "name-es": "Bulgaria",
         "alpha2": "BG",
         "alpha3": "BGR",
         "numeric": "100",
         "currencies": ["BGN"]
     },
     "BF": {
-        "nameEn": "Burkina Faso",
-        "nameEs": "Burkina Faso",
+        "name-en": "Burkina Faso",
+        "name-es": "Burkina Faso",
         "alpha2": "BF",
         "alpha3": "BFA",
         "numeric": "854",
         "currencies": ["XOF"]
     },
     "BI": {
-        "nameEn": "Burundi",
-        "nameEs": "Burundi",
+        "name-en": "Burundi",
+        "name-es": "Burundi",
         "alpha2": "BI",
         "alpha3": "BDI",
         "numeric": "108",
         "currencies": ["BIF"]
     },
     "CV": {
-        "nameEn": "Cabo Verde",
-        "nameEs": "Cabo Verde",
+        "name-en": "Cabo Verde",
+        "name-es": "Cabo Verde",
         "alpha2": "CV",
         "alpha3": "CPV",
         "numeric": "132",
         "currencies": ["CVE"]
     },
     "KH": {
-        "nameEn": "Cambodia",
-        "nameEs": "Camboya",
+        "name-en": "Cambodia",
+        "name-es": "Camboya",
         "alpha2": "KH",
         "alpha3": "KHM",
         "numeric": "116",
         "currencies": ["KHR"]
     },
     "CM": {
-        "nameEn": "Cameroon",
-        "nameEs": "Camerún",
+        "name-en": "Cameroon",
+        "name-es": "Camerún",
         "alpha2": "CM",
         "alpha3": "CMR",
         "numeric": "120",
         "currencies": ["XAF"]
     },
     "CA": {
-        "nameEn": "Canada",
-        "nameEs": "Canadá",
+        "name-en": "Canada",
+        "name-es": "Canadá",
         "alpha2": "CA",
         "alpha3": "CAN",
         "numeric": "124",
         "currencies": ["CAD"]
     },
     "KY": {
-        "nameEn": "Cayman Islands",
-        "nameEs": "Islas Caimán",
+        "name-en": "Cayman Islands",
+        "name-es": "Islas Caimán",
         "alpha2": "KY",
         "alpha3": "CYM",
         "numeric": "136",
         "currencies": ["KYD"]
     },
     "CF": {
-        "nameEn": "Central African Republic",
-        "nameEs": "República Centroafricana",
+        "name-en": "Central African Republic",
+        "name-es": "República Centroafricana",
         "alpha2": "CF",
         "alpha3": "CAF",
         "numeric": "140",
         "currencies": ["XAF"]
     },
     "TD": {
-        "nameEn": "Chad",
-        "nameEs": "Chad",
+        "name-en": "Chad",
+        "name-es": "Chad",
         "alpha2": "TD",
         "alpha3": "TCD",
         "numeric": "148",
         "currencies": ["XAF"]
     },
     "CL": {
-        "nameEn": "Chile",
-        "nameEs": "Chile",
+        "name-en": "Chile",
+        "name-es": "Chile",
         "alpha2": "CL",
         "alpha3": "CHL",
         "numeric": "152",
         "currencies": ["CLF", "CLP"]
     },
     "CN": {
-        "nameEn": "China",
-        "nameEs": "China",
+        "name-en": "China",
+        "name-es": "China",
         "alpha2": "CN",
         "alpha3": "CHN",
         "numeric": "156",
         "currencies": ["CNY"]
     },
     "CX": {
-        "nameEn": "Christmas Island",
-        "nameEs": "Isla de Navidad",
+        "name-en": "Christmas Island",
+        "name-es": "Isla de Navidad",
         "alpha2": "CX",
         "alpha3": "CXR",
         "numeric": "162",
         "currencies": ["AUD"]
     },
     "CC": {
-        "nameEn": "Cocos (Keeling) Islands",
-        "nameEs": "Islas Cocos",
+        "name-en": "Cocos (Keeling) Islands",
+        "name-es": "Islas Cocos",
         "alpha2": "CC",
         "alpha3": "CCK",
         "numeric": "166",
         "currencies": ["AUD"]
     },
     "CO": {
-        "nameEn": "Colombia",
-        "nameEs": "Colombia",
+        "name-en": "Colombia",
+        "name-es": "Colombia",
         "alpha2": "CO",
         "alpha3": "COL",
         "numeric": "170",
         "currencies": ["COP", "COU"]
     },
     "KM": {
-        "nameEn": "Comoros",
-        "nameEs": "Comoras",
+        "name-en": "Comoros",
+        "name-es": "Comoras",
         "alpha2": "KM",
         "alpha3": "COM",
         "numeric": "174",
         "currencies": ["KMF"]
     },
     "CD": {
-        "nameEn": "Democratic Republic of the Congo",
-        "nameEs": "República Democrática del Congo",
+        "name-en": "Democratic Republic of the Congo",
+        "name-es": "República Democrática del Congo",
         "alpha2": "CD",
         "alpha3": "COD",
         "numeric": "180",
         "currencies": ["CDF"]
     },
     "CG": {
-        "nameEn": "Republic of the Congo",
-        "nameEs": "República del Congo",
+        "name-en": "Republic of the Congo",
+        "name-es": "República del Congo",
         "alpha2": "CG",
         "alpha3": "COG",
         "numeric": "178",
         "currencies": ["XAF"]
     },
     "CK": {
-        "nameEn": "Cook Islands",
-        "nameEs": "Islas Cook",
+        "name-en": "Cook Islands",
+        "name-es": "Islas Cook",
         "alpha2": "CK",
         "alpha3": "COK",
         "numeric": "184",
         "currencies": ["NZD"]
     },
     "CR": {
-        "nameEn": "Costa Rica",
-        "nameEs": "Costa Rica",
+        "name-en": "Costa Rica",
+        "name-es": "Costa Rica",
         "alpha2": "CR",
         "alpha3": "CRI",
         "numeric": "188",
         "currencies": ["CRC"]
     },
     "HR": {
-        "nameEn": "Croatia",
-        "nameEs": "Croacia",
+        "name-en": "Croatia",
+        "name-es": "Croacia",
         "alpha2": "HR",
         "alpha3": "HRV",
         "numeric": "191",
         "currencies": ["HRK"]
     },
     "CU": {
-        "nameEn": "Cuba",
-        "nameEs": "Cuba",
+        "name-en": "Cuba",
+        "name-es": "Cuba",
         "alpha2": "CU",
         "alpha3": "CUB",
         "numeric": "192",
         "currencies": ["CUC", "CUP"]
     },
     "CW": {
-        "nameEn": "Curaçao",
-        "nameEs": "Curazao",
+        "name-en": "Curaçao",
+        "name-es": "Curazao",
         "alpha2": "CW",
         "alpha3": "CUW",
         "numeric": "531",
         "currencies": ["ANG"]
     },
     "CY": {
-        "nameEn": "Cyprus",
-        "nameEs": "Chipre",
+        "name-en": "Cyprus",
+        "name-es": "Chipre",
         "alpha2": "CY",
         "alpha3": "CYP",
         "numeric": "196",
         "currencies": ["EUR"]
     },
     "CZ": {
-        "nameEn": "Czechia",
-        "nameEs": "República Checa",
+        "name-en": "Czechia",
+        "name-es": "República Checa",
         "alpha2": "CZ",
         "alpha3": "CZE",
         "numeric": "203",
         "currencies": ["CZK"]
     },
     "CI": {
-        "nameEn": "Côte d'Ivoire",
-        "nameEs": "Costa de Marfil",
+        "name-en": "Côte d'Ivoire",
+        "name-es": "Costa de Marfil",
         "alpha2": "CI",
         "alpha3": "CIV",
         "numeric": "384",
         "currencies": ["XOF"]
     },
     "DK": {
-        "nameEn": "Denmark",
-        "nameEs": "Dinamarca",
+        "name-en": "Denmark",
+        "name-es": "Dinamarca",
         "alpha2": "DK",
         "alpha3": "DNK",
         "numeric": "208",
         "currencies": ["DKK"]
     },
     "DJ": {
-        "nameEn": "Djibouti",
-        "nameEs": "Yibuti",
+        "name-en": "Djibouti",
+        "name-es": "Yibuti",
         "alpha2": "DJ",
         "alpha3": "DJI",
         "numeric": "262",
         "currencies": ["DJF"]
     },
     "DM": {
-        "nameEn": "Dominica",
-        "nameEs": "Dominica",
+        "name-en": "Dominica",
+        "name-es": "Dominica",
         "alpha2": "DM",
         "alpha3": "DMA",
         "numeric": "212",
         "currencies": ["XCD"]
     },
     "DO": {
-        "nameEn": "Dominican Republic",
-        "nameEs": "República Dominicana",
+        "name-en": "Dominican Republic",
+        "name-es": "República Dominicana",
         "alpha2": "DO",
         "alpha3": "DOM",
         "numeric": "214",
         "currencies": ["DOP"]
     },
     "EC": {
-        "nameEn": "Ecuador",
-        "nameEs": "Ecuador",
+        "name-en": "Ecuador",
+        "name-es": "Ecuador",
         "alpha2": "EC",
         "alpha3": "ECU",
         "numeric": "218",
         "currencies": ["USD"]
     },
     "EG": {
-        "nameEn": "Egypt",
-        "nameEs": "Egipto",
+        "name-en": "Egypt",
+        "name-es": "Egipto",
         "alpha2": "EG",
         "alpha3": "EGY",
         "numeric": "818",
         "currencies": ["EGP"]
     },
     "SV": {
-        "nameEn": "El Salvador",
-        "nameEs": "El Salvador",
+        "name-en": "El Salvador",
+        "name-es": "El Salvador",
         "alpha2": "SV",
         "alpha3": "SLV",
         "numeric": "222",
         "currencies": ["SVC", "USD"]
     },
     "GQ": {
-        "nameEn": "Equatorial Guinea",
-        "nameEs": "Guinea Ecuatorial",
+        "name-en": "Equatorial Guinea",
+        "name-es": "Guinea Ecuatorial",
         "alpha2": "GQ",
         "alpha3": "GNQ",
         "numeric": "226",
         "currencies": ["XAF"]
     },
     "ER": {
-        "nameEn": "Eritrea",
-        "nameEs": "Eritrea",
+        "name-en": "Eritrea",
+        "name-es": "Eritrea",
         "alpha2": "ER",
         "alpha3": "ERI",
         "numeric": "232",
         "currencies": ["ERN"]
     },
     "EE": {
-        "nameEn": "Estonia",
-        "nameEs": "Estonia",
+        "name-en": "Estonia",
+        "name-es": "Estonia",
         "alpha2": "EE",
         "alpha3": "EST",
         "numeric": "233",
         "currencies": ["EUR"]
     },
     "SZ": {
-        "nameEn": "Eswatini",
-        "nameEs": "Suazilandia",
+        "name-en": "Eswatini",
+        "name-es": "Suazilandia",
         "alpha2": "SZ",
         "alpha3": "SWZ",
         "numeric": "748",
         "currencies": ["SZL"]
     },
     "ET": {
-        "nameEn": "Ethiopia",
-        "nameEs": "Etiopía",
+        "name-en": "Ethiopia",
+        "name-es": "Etiopía",
         "alpha2": "ET",
         "alpha3": "ETH",
         "numeric": "231",
         "currencies": ["ETB"]
     },
     "FK": {
-        "nameEn": "Falkland Islands (Malvinas)",
-        "nameEs": "Islas Malvinas (Falkland)",
+        "name-en": "Falkland Islands (Malvinas)",
+        "name-es": "Islas Malvinas (Falkland)",
         "alpha2": "FK",
         "alpha3": "FLK",
         "numeric": "238",
         "currencies": ["FKP"]
     },
     "FO": {
-        "nameEn": "Faroe Islands",
-        "nameEs": "Islas Feroe",
+        "name-en": "Faroe Islands",
+        "name-es": "Islas Feroe",
         "alpha2": "FO",
         "alpha3": "FRO",
         "numeric": "234",
         "currencies": ["DKK"]
     },
     "FJ": {
-        "nameEn": "Fiji",
-        "nameEs": "Fiyi",
+        "name-en": "Fiji",
+        "name-es": "Fiyi",
         "alpha2": "FJ",
         "alpha3": "FJI",
         "numeric": "242",
         "currencies": ["FJD"]
     },
     "FI": {
-        "nameEn": "Finland",
-        "nameEs": "Finlandia",
+        "name-en": "Finland",
+        "name-es": "Finlandia",
         "alpha2": "FI",
         "alpha3": "FIN",
         "numeric": "246",
         "currencies": ["EUR"]
     },
     "FR": {
-        "nameEn": "France",
-        "nameEs": "Francia",
+        "name-en": "France",
+        "name-es": "Francia",
         "alpha2": "FR",
         "alpha3": "FRA",
         "numeric": "250",
         "currencies": ["EUR"]
     },
     "GF": {
-        "nameEn": "French Guiana",
-        "nameEs": "Guayana Francesa",
+        "name-en": "French Guiana",
+        "name-es": "Guayana Francesa",
         "alpha2": "GF",
         "alpha3": "GUF",
         "numeric": "254",
         "currencies": ["EUR"]
     },
     "PF": {
-        "nameEn": "French Polynesia",
-        "nameEs": "Polinesia Francesa",
+        "name-en": "French Polynesia",
+        "name-es": "Polinesia Francesa",
         "alpha2": "PF",
         "alpha3": "PYF",
         "numeric": "258",
         "currencies": ["XPF"]
     },
     "TF": {
-        "nameEn": "French Southern Territories",
-        "nameEs": "Tierras Australes y Antárticas Francesas",
+        "name-en": "French Southern Territories",
+        "name-es": "Tierras Australes y Antárticas Francesas",
         "alpha2": "TF",
         "alpha3": "ATF",
         "numeric": "260",
         "currencies": ["EUR"]
     },
     "GA": {
-        "nameEn": "Gabon",
-        "nameEs": "Gabón",
+        "name-en": "Gabon",
+        "name-es": "Gabón",
         "alpha2": "GA",
         "alpha3": "GAB",
         "numeric": "266",
         "currencies": ["XAF"]
     },
     "GM": {
-        "nameEn": "Gambia",
-        "nameEs": "Gambia",
+        "name-en": "Gambia",
+        "name-es": "Gambia",
         "alpha2": "GM",
         "alpha3": "GMB",
         "numeric": "270",
         "currencies": ["GMD"]
     },
     "GE": {
-        "nameEn": "Georgia",
-        "nameEs": "Georgia",
+        "name-en": "Georgia",
+        "name-es": "Georgia",
         "alpha2": "GE",
         "alpha3": "GEO",
         "numeric": "268",
         "currencies": ["GEL"]
     },
     "DE": {
-        "nameEn": "Germany",
-        "nameEs": "Alemania",
+        "name-en": "Germany",
+        "name-es": "Alemania",
         "alpha2": "DE",
         "alpha3": "DEU",
         "numeric": "276",
         "currencies": ["EUR"]
     },
     "GH": {
-        "nameEn": "Ghana",
-        "nameEs": "Ghana",
+        "name-en": "Ghana",
+        "name-es": "Ghana",
         "alpha2": "GH",
         "alpha3": "GHA",
         "numeric": "288",
         "currencies": ["GHS"]
     },
     "GI": {
-        "nameEn": "Gibraltar",
-        "nameEs": "Gibraltar",
+        "name-en": "Gibraltar",
+        "name-es": "Gibraltar",
         "alpha2": "GI",
         "alpha3": "GIB",
         "numeric": "292",
         "currencies": ["GIP"]
     },
     "GR": {
-        "nameEn": "Greece",
-        "nameEs": "Grecia",
+        "name-en": "Greece",
+        "name-es": "Grecia",
         "alpha2": "GR",
         "alpha3": "GRC",
         "numeric": "300",
         "currencies": ["EUR"]
     },
     "GL": {
-        "nameEn": "Greenland",
-        "nameEs": "Groenlandia",
+        "name-en": "Greenland",
+        "name-es": "Groenlandia",
         "alpha2": "GL",
         "alpha3": "GRL",
         "numeric": "304",
         "currencies": ["DKK"]
     },
     "GD": {
-        "nameEn": "Grenada",
-        "nameEs": "Granada",
+        "name-en": "Grenada",
+        "name-es": "Granada",
         "alpha2": "GD",
         "alpha3": "GRD",
         "numeric": "308",
         "currencies": ["XCD"]
     },
     "GP": {
-        "nameEn": "Guadeloupe",
-        "nameEs": "Guadalupe",
+        "name-en": "Guadeloupe",
+        "name-es": "Guadalupe",
         "alpha2": "GP",
         "alpha3": "GLP",
         "numeric": "312",
         "currencies": ["EUR"]
     },
     "GU": {
-        "nameEn": "Guam",
-        "nameEs": "Guam",
+        "name-en": "Guam",
+        "name-es": "Guam",
         "alpha2": "GU",
         "alpha3": "GUM",
         "numeric": "316",
         "currencies": ["USD"]
     },
     "GT": {
-        "nameEn": "Guatemala",
-        "nameEs": "Guatemala",
+        "name-en": "Guatemala",
+        "name-es": "Guatemala",
         "alpha2": "GT",
         "alpha3": "GTM",
         "numeric": "320",
         "currencies": ["GTQ"]
     },
     "GG": {
-        "nameEn": "Guernsey",
-        "nameEs": "Guernsey",
+        "name-en": "Guernsey",
+        "name-es": "Guernsey",
         "alpha2": "GG",
         "alpha3": "GGY",
         "numeric": "831",
         "currencies": ["GBP"]
     },
     "GN": {
-        "nameEn": "Guinea",
-        "nameEs": "Guinea",
+        "name-en": "Guinea",
+        "name-es": "Guinea",
         "alpha2": "GN",
         "alpha3": "GIN",
         "numeric": "324",
         "currencies": ["GNF"]
     },
     "GW": {
-        "nameEn": "Guinea-Bissau",
-        "nameEs": "Guinea-Bisáu",
+        "name-en": "Guinea-Bissau",
+        "name-es": "Guinea-Bisáu",
         "alpha2": "GW",
         "alpha3": "GNB",
         "numeric": "624",
         "currencies": ["XOF"]
     },
     "GY": {
-        "nameEn": "Guyana",
-        "nameEs": "Guyana",
+        "name-en": "Guyana",
+        "name-es": "Guyana",
         "alpha2": "GY",
         "alpha3": "GUY",
         "numeric": "328",
         "currencies": ["GYD"]
     },
     "HT": {
-        "nameEn": "Haiti",
-        "nameEs": "Haití",
+        "name-en": "Haiti",
+        "name-es": "Haití",
         "alpha2": "HT",
         "alpha3": "HTI",
         "numeric": "332",
         "currencies": ["HTG", "USD"]
     },
     "HM": {
-        "nameEn": "Heard Island and McDonald Islands",
-        "nameEs": "Islas Heard y McDonald",
+        "name-en": "Heard Island and McDonald Islands",
+        "name-es": "Islas Heard y McDonald",
         "alpha2": "HM",
         "alpha3": "HMD",
         "numeric": "334",
         "currencies": ["AUD"]
     },
     "VA": {
-        "nameEn": "Holy See",
-        "nameEs": "Ciudad del Vaticano",
+        "name-en": "Holy See",
+        "name-es": "Ciudad del Vaticano",
         "alpha2": "VA",
         "alpha3": "VAT",
         "numeric": "336",
         "currencies": ["EUR"]
     },
     "HN": {
-        "nameEn": "Honduras",
-        "nameEs": "Honduras",
+        "name-en": "Honduras",
+        "name-es": "Honduras",
         "alpha2": "HN",
         "alpha3": "HND",
         "numeric": "340",
         "currencies": ["HNL"]
     },
     "HK": {
-        "nameEn": "Hong Kong",
-        "nameEs": "Hong Kong",
+        "name-en": "Hong Kong",
+        "name-es": "Hong Kong",
         "alpha2": "HK",
         "alpha3": "HKG",
         "numeric": "344",
         "currencies": ["HKD"]
     },
     "HU": {
-        "nameEn": "Hungary",
-        "nameEs": "Hungría",
+        "name-en": "Hungary",
+        "name-es": "Hungría",
         "alpha2": "HU",
         "alpha3": "HUN",
         "numeric": "348",
         "currencies": ["HUF"]
     },
     "IS": {
-        "nameEn": "Iceland",
-        "nameEs": "Islandia",
+        "name-en": "Iceland",
+        "name-es": "Islandia",
         "alpha2": "IS",
         "alpha3": "ISL",
         "numeric": "352",
         "currencies": ["ISK"]
     },
     "IN": {
-        "nameEn": "India",
-        "nameEs": "India",
+        "name-en": "India",
+        "name-es": "India",
         "alpha2": "IN",
         "alpha3": "IND",
         "numeric": "356",
         "currencies": ["INR"]
     },
     "ID": {
-        "nameEn": "Indonesia",
-        "nameEs": "Indonesia",
+        "name-en": "Indonesia",
+        "name-es": "Indonesia",
         "alpha2": "ID",
         "alpha3": "IDN",
         "numeric": "360",
         "currencies": ["IDR"]
     },
     "IR": {
-        "nameEn": "Iran (Islamic Republic of)",
-        "nameEs": "Irán",
+        "name-en": "Iran (Islamic Republic of)",
+        "name-es": "Irán",
         "alpha2": "IR",
         "alpha3": "IRN",
         "numeric": "364",
         "currencies": ["IRR"]
     },
     "IQ": {
-        "nameEn": "Iraq",
-        "nameEs": "Irak",
+        "name-en": "Iraq",
+        "name-es": "Irak",
         "alpha2": "IQ",
         "alpha3": "IRQ",
         "numeric": "368",
         "currencies": ["IQD"]
     },
     "IE": {
-        "nameEn": "Ireland",
-        "nameEs": "Irlanda",
+        "name-en": "Ireland",
+        "name-es": "Irlanda",
         "alpha2": "IE",
         "alpha3": "IRL",
         "numeric": "372",
         "currencies": ["EUR"]
     },
     "IM": {
-        "nameEn": "Isle of Man",
-        "nameEs": "Isla de Man",
+        "name-en": "Isle of Man",
+        "name-es": "Isla de Man",
         "alpha2": "IM",
         "alpha3": "IMN",
         "numeric": "833",
         "currencies": ["GBP"]
     },
     "IL": {
-        "nameEn": "Israel",
-        "nameEs": "Israel",
+        "name-en": "Israel",
+        "name-es": "Israel",
         "alpha2": "IL",
         "alpha3": "ISR",
         "numeric": "376",
         "currencies": ["ILS"]
     },
     "IT": {
-        "nameEn": "Italy",
-        "nameEs": "Italia",
+        "name-en": "Italy",
+        "name-es": "Italia",
         "alpha2": "IT",
         "alpha3": "ITA",
         "numeric": "380",
         "currencies": ["EUR"]
     },
     "JM": {
-        "nameEn": "Jamaica",
-        "nameEs": "Jamaica",
+        "name-en": "Jamaica",
+        "name-es": "Jamaica",
         "alpha2": "JM",
         "alpha3": "JAM",
         "numeric": "388",
         "currencies": ["JMD"]
     },
     "JP": {
-        "nameEn": "Japan",
-        "nameEs": "Japón",
+        "name-en": "Japan",
+        "name-es": "Japón",
         "alpha2": "JP",
         "alpha3": "JPN",
         "numeric": "392",
         "currencies": ["JPY"]
     },
     "JE": {
-        "nameEn": "Jersey",
-        "nameEs": "Jersey",
+        "name-en": "Jersey",
+        "name-es": "Jersey",
         "alpha2": "JE",
         "alpha3": "JEY",
         "numeric": "832",
         "currencies": ["GBP"]
     },
     "JO": {
-        "nameEn": "Jordan",
-        "nameEs": "Jordania",
+        "name-en": "Jordan",
+        "name-es": "Jordania",
         "alpha2": "JO",
         "alpha3": "JOR",
         "numeric": "400",
         "currencies": ["JOD"]
     },
     "KZ": {
-        "nameEn": "Kazakhstan",
-        "nameEs": "Kazajistán",
+        "name-en": "Kazakhstan",
+        "name-es": "Kazajistán",
         "alpha2": "KZ",
         "alpha3": "KAZ",
         "numeric": "398",
         "currencies": ["KZT"]
     },
     "KE": {
-        "nameEn": "Kenya",
-        "nameEs": "Kenia",
+        "name-en": "Kenya",
+        "name-es": "Kenia",
         "alpha2": "KE",
         "alpha3": "KEN",
         "numeric": "404",
         "currencies": ["KES"]
     },
     "KI": {
-        "nameEn": "Kiribati",
-        "nameEs": "Kiribati",
+        "name-en": "Kiribati",
+        "name-es": "Kiribati",
         "alpha2": "KI",
         "alpha3": "KIR",
         "numeric": "296",
         "currencies": ["AUD"]
     },
     "KP": {
-        "nameEn": "Korea (Democratic People's Republic of)",
-        "nameEs": "Corea del Norte",
+        "name-en": "Korea (Democratic People's Republic of)",
+        "name-es": "Corea del Norte",
         "alpha2": "KP",
         "alpha3": "PRK",
         "numeric": "408",
         "currencies": ["KPW"]
     },
     "KR": {
-        "nameEn": "South Korea",
-        "nameEs": "Corea del Sur",
+        "name-en": "South Korea",
+        "name-es": "Corea del Sur",
         "alpha2": "KR",
         "alpha3": "KOR",
         "numeric": "410",
         "currencies": ["KRW"]
     },
     "KW": {
-        "nameEn": "Kuwait",
-        "nameEs": "Kuwait",
+        "name-en": "Kuwait",
+        "name-es": "Kuwait",
         "alpha2": "KW",
         "alpha3": "KWT",
         "numeric": "414",
         "currencies": ["KWD"]
     },
     "KG": {
-        "nameEn": "Kyrgyzstan",
-        "nameEs": "Kirguistán",
+        "name-en": "Kyrgyzstan",
+        "name-es": "Kirguistán",
         "alpha2": "KG",
         "alpha3": "KGZ",
         "numeric": "417",
         "currencies": ["KGS"]
     },
     "LA": {
-        "nameEn": "Lao People's Democratic Republic",
-        "nameEs": "Laos",
+        "name-en": "Lao People's Democratic Republic",
+        "name-es": "Laos",
         "alpha2": "LA",
         "alpha3": "LAO",
         "numeric": "418",
         "currencies": ["LAK"]
     },
     "LV": {
-        "nameEn": "Latvia",
-        "nameEs": "Letonia",
+        "name-en": "Latvia",
+        "name-es": "Letonia",
         "alpha2": "LV",
         "alpha3": "LVA",
         "numeric": "428",
         "currencies": ["EUR"]
     },
     "LB": {
-        "nameEn": "Lebanon",
-        "nameEs": "Líbano",
+        "name-en": "Lebanon",
+        "name-es": "Líbano",
         "alpha2": "LB",
         "alpha3": "LBN",
         "numeric": "422",
         "currencies": ["LBP"]
     },
     "LS": {
-        "nameEn": "Lesotho",
-        "nameEs": "Lesoto",
+        "name-en": "Lesotho",
+        "name-es": "Lesoto",
         "alpha2": "LS",
         "alpha3": "LSO",
         "numeric": "426",
         "currencies": ["LSL", "ZAR"]
     },
     "LR": {
-        "nameEn": "Liberia",
-        "nameEs": "Liberia",
+        "name-en": "Liberia",
+        "name-es": "Liberia",
         "alpha2": "LR",
         "alpha3": "LBR",
         "numeric": "430",
         "currencies": ["LRD"]
     },
     "LY": {
-        "nameEn": "Libya",
-        "nameEs": "Libia",
+        "name-en": "Libya",
+        "name-es": "Libia",
         "alpha2": "LY",
         "alpha3": "LBY",
         "numeric": "434",
         "currencies": ["LYD"]
     },
     "LI": {
-        "nameEn": "Liechtenstein",
-        "nameEs": "Liechtenstein",
+        "name-en": "Liechtenstein",
+        "name-es": "Liechtenstein",
         "alpha2": "LI",
         "alpha3": "LIE",
         "numeric": "438",
         "currencies": ["CHF"]
     },
     "LT": {
-        "nameEn": "Lithuania",
-        "nameEs": "Lituania",
+        "name-en": "Lithuania",
+        "name-es": "Lituania",
         "alpha2": "LT",
         "alpha3": "LTU",
         "numeric": "440",
         "currencies": ["EUR"]
     },
     "LU": {
-        "nameEn": "Luxembourg",
-        "nameEs": "Luxemburgo",
+        "name-en": "Luxembourg",
+        "name-es": "Luxemburgo",
         "alpha2": "LU",
         "alpha3": "LUX",
         "numeric": "442",
         "currencies": ["EUR"]
     },
     "MO": {
-        "nameEn": "Macao",
-        "nameEs": "Macao",
+        "name-en": "Macao",
+        "name-es": "Macao",
         "alpha2": "MO",
         "alpha3": "MAC",
         "numeric": "446",
         "currencies": ["MOP"]
     },
     "MG": {
-        "nameEn": "Madagascar",
-        "nameEs": "Madagascar",
+        "name-en": "Madagascar",
+        "name-es": "Madagascar",
         "alpha2": "MG",
         "alpha3": "MDG",
         "numeric": "450",
         "currencies": ["MGA"]
     },
     "MW": {
-        "nameEn": "Malawi",
-        "nameEs": "Malaui",
+        "name-en": "Malawi",
+        "name-es": "Malaui",
         "alpha2": "MW",
         "alpha3": "MWI",
         "numeric": "454",
         "currencies": ["MWK"]
     },
     "MY": {
-        "nameEn": "Malaysia",
-        "nameEs": "Malasia",
+        "name-en": "Malaysia",
+        "name-es": "Malasia",
         "alpha2": "MY",
         "alpha3": "MYS",
         "numeric": "458",
         "currencies": ["MYR"]
     },
     "MV": {
-        "nameEn": "Maldives",
-        "nameEs": "Maldivas",
+        "name-en": "Maldives",
+        "name-es": "Maldivas",
         "alpha2": "MV",
         "alpha3": "MDV",
         "numeric": "462",
         "currencies": ["MVR"]
     },
     "ML": {
-        "nameEn": "Mali",
-        "nameEs": "Malí",
+        "name-en": "Mali",
+        "name-es": "Malí",
         "alpha2": "ML",
         "alpha3": "MLI",
         "numeric": "466",
         "currencies": ["XOF"]
     },
     "MT": {
-        "nameEn": "Malta",
-        "nameEs": "Malta",
+        "name-en": "Malta",
+        "name-es": "Malta",
         "alpha2": "MT",
         "alpha3": "MLT",
         "numeric": "470",
         "currencies": ["EUR"]
     },
     "MH": {
-        "nameEn": "Marshall Islands",
-        "nameEs": "Islas Marshall",
+        "name-en": "Marshall Islands",
+        "name-es": "Islas Marshall",
         "alpha2": "MH",
         "alpha3": "MHL",
         "numeric": "584",
         "currencies": ["USD"]
     },
     "MQ": {
-        "nameEn": "Martinique",
-        "nameEs": "Martinica",
+        "name-en": "Martinique",
+        "name-es": "Martinica",
         "alpha2": "MQ",
         "alpha3": "MTQ",
         "numeric": "474",
         "currencies": ["EUR"]
     },
     "MR": {
-        "nameEn": "Mauritania",
-        "nameEs": "Mauritania",
+        "name-en": "Mauritania",
+        "name-es": "Mauritania",
         "alpha2": "MR",
         "alpha3": "MRT",
         "numeric": "478",
         "currencies": ["MRU"]
     },
     "MU": {
-        "nameEn": "Mauritius",
-        "nameEs": "Mauricio",
+        "name-en": "Mauritius",
+        "name-es": "Mauricio",
         "alpha2": "MU",
         "alpha3": "MUS",
         "numeric": "480",
         "currencies": ["MUR"]
     },
     "YT": {
-        "nameEn": "Mayotte",
-        "nameEs": "Mayotte",
+        "name-en": "Mayotte",
+        "name-es": "Mayotte",
         "alpha2": "YT",
         "alpha3": "MYT",
         "numeric": "175",
         "currencies": ["EUR"]
     },
     "MX": {
-        "nameEn": "Mexico",
-        "nameEs": "México",
+        "name-en": "Mexico",
+        "name-es": "México",
         "alpha2": "MX",
         "alpha3": "MEX",
         "numeric": "484",
         "currencies": ["MXN", "MXV"]
     },
     "FM": {
-        "nameEn": "Federated States of Micronesia",
-        "nameEs": "Micronesia",
+        "name-en": "Federated States of Micronesia",
+        "name-es": "Micronesia",
         "alpha2": "FM",
         "alpha3": "FSM",
         "numeric": "583",
         "currencies": ["USD"]
     },
     "MD": {
-        "nameEn": "Moldova",
-        "nameEs": "Moldavia",
+        "name-en": "Moldova",
+        "name-es": "Moldavia",
         "alpha2": "MD",
         "alpha3": "MDA",
         "numeric": "498",
         "currencies": ["MDL"]
     },
     "MC": {
-        "nameEn": "Monaco",
-        "nameEs": "Mónaco",
+        "name-en": "Monaco",
+        "name-es": "Mónaco",
         "alpha2": "MC",
         "alpha3": "MCO",
         "numeric": "492",
         "currencies": ["EUR"]
     },
     "MN": {
-        "nameEn": "Mongolia",
-        "nameEs": "Mongolia",
+        "name-en": "Mongolia",
+        "name-es": "Mongolia",
         "alpha2": "MN",
         "alpha3": "MNG",
         "numeric": "496",
         "currencies": ["MNT"]
     },
     "ME": {
-        "nameEn": "Montenegro",
-        "nameEs": "Montenegro",
+        "name-en": "Montenegro",
+        "name-es": "Montenegro",
         "alpha2": "ME",
         "alpha3": "MNE",
         "numeric": "499",
         "currencies": ["EUR"]
     },
     "MS": {
-        "nameEn": "Montserrat",
-        "nameEs": "Montserrat",
+        "name-en": "Montserrat",
+        "name-es": "Montserrat",
         "alpha2": "MS",
         "alpha3": "MSR",
         "numeric": "500",
         "currencies": ["XCD"]
     },
     "MA": {
-        "nameEn": "Morocco",
-        "nameEs": "Marruecos",
+        "name-en": "Morocco",
+        "name-es": "Marruecos",
         "alpha2": "MA",
         "alpha3": "MAR",
         "numeric": "504",
         "currencies": ["MAD"]
     },
     "MZ": {
-        "nameEn": "Mozambique",
-        "nameEs": "Mozambique",
+        "name-en": "Mozambique",
+        "name-es": "Mozambique",
         "alpha2": "MZ",
         "alpha3": "MOZ",
         "numeric": "508",
         "currencies": ["MZN"]
     },
     "MM": {
-        "nameEn": "Myanmar",
-        "nameEs": "Birmania",
+        "name-en": "Myanmar",
+        "name-es": "Birmania",
         "alpha2": "MM",
         "alpha3": "MMR",
         "numeric": "104",
         "currencies": ["MMK"]
     },
     "NA": {
-        "nameEn": "Namibia",
-        "nameEs": "Namibia",
+        "name-en": "Namibia",
+        "name-es": "Namibia",
         "alpha2": "NA",
         "alpha3": "NAM",
         "numeric": "516",
         "currencies": ["NAD", "ZAR"]
     },
     "NR": {
-        "nameEn": "Nauru",
-        "nameEs": "Nauru",
+        "name-en": "Nauru",
+        "name-es": "Nauru",
         "alpha2": "NR",
         "alpha3": "NRU",
         "numeric": "520",
         "currencies": ["AUD"]
     },
     "NP": {
-        "nameEn": "Nepal",
-        "nameEs": "Nepal",
+        "name-en": "Nepal",
+        "name-es": "Nepal",
         "alpha2": "NP",
         "alpha3": "NPL",
         "numeric": "524",
         "currencies": ["NPR"]
     },
     "NL": {
-        "nameEn": "Netherlands",
-        "nameEs": "Países Bajos",
+        "name-en": "Netherlands",
+        "name-es": "Países Bajos",
         "alpha2": "NL",
         "alpha3": "NLD",
         "numeric": "528",
         "currencies": ["EUR"]
     },
     "NC": {
-        "nameEn": "New Caledonia",
-        "nameEs": "Nueva Caledonia",
+        "name-en": "New Caledonia",
+        "name-es": "Nueva Caledonia",
         "alpha2": "NC",
         "alpha3": "NCL",
         "numeric": "540",
         "currencies": ["XPF"]
     },
     "NZ": {
-        "nameEn": "New Zealand",
-        "nameEs": "Nueva Zelanda",
+        "name-en": "New Zealand",
+        "name-es": "Nueva Zelanda",
         "alpha2": "NZ",
         "alpha3": "NZL",
         "numeric": "554",
         "currencies": ["NZD"]
     },
     "NI": {
-        "nameEn": "Nicaragua",
-        "nameEs": "Nicaragua",
+        "name-en": "Nicaragua",
+        "name-es": "Nicaragua",
         "alpha2": "NI",
         "alpha3": "NIC",
         "numeric": "558",
         "currencies": ["NIO"]
     },
     "NE": {
-        "nameEn": "Niger",
-        "nameEs": "Níger",
+        "name-en": "Niger",
+        "name-es": "Níger",
         "alpha2": "NE",
         "alpha3": "NER",
         "numeric": "562",
         "currencies": ["XOF"]
     },
     "NG": {
-        "nameEn": "Nigeria",
-        "nameEs": "Nigeria",
+        "name-en": "Nigeria",
+        "name-es": "Nigeria",
         "alpha2": "NG",
         "alpha3": "NGA",
         "numeric": "566",
         "currencies": ["NGN"]
     },
     "NU": {
-        "nameEn": "Niue",
-        "nameEs": "Niue",
+        "name-en": "Niue",
+        "name-es": "Niue",
         "alpha2": "NU",
         "alpha3": "NIU",
         "numeric": "570",
         "currencies": ["NZD"]
     },
     "NF": {
-        "nameEn": "Norfolk Island",
-        "nameEs": "Isla Norfolk",
+        "name-en": "Norfolk Island",
+        "name-es": "Isla Norfolk",
         "alpha2": "NF",
         "alpha3": "NFK",
         "numeric": "574",
         "currencies": ["AUD"]
     },
     "MK": {
-        "nameEn": "North Macedonia",
-        "nameEs": "Macedonia del Norte",
+        "name-en": "North Macedonia",
+        "name-es": "Macedonia del Norte",
         "alpha2": "MK",
         "alpha3": "MKD",
         "numeric": "807",
         "currencies": ["MKD"]
     },
     "MP": {
-        "nameEn": "Northern Mariana Islands",
-        "nameEs": "Islas Marianas del Norte",
+        "name-en": "Northern Mariana Islands",
+        "name-es": "Islas Marianas del Norte",
         "alpha2": "MP",
         "alpha3": "MNP",
         "numeric": "580",
         "currencies": ["USD"]
     },
     "NO": {
-        "nameEn": "Norway",
-        "nameEs": "Noruega",
+        "name-en": "Norway",
+        "name-es": "Noruega",
         "alpha2": "NO",
         "alpha3": "NOR",
         "numeric": "578",
         "currencies": ["NOK"]
     },
     "OM": {
-        "nameEn": "Oman",
-        "nameEs": "Omán",
+        "name-en": "Oman",
+        "name-es": "Omán",
         "alpha2": "OM",
         "alpha3": "OMN",
         "numeric": "512",
         "currencies": ["OMR"]
     },
     "PK": {
-        "nameEn": "Pakistan",
-        "nameEs": "Pakistán",
+        "name-en": "Pakistan",
+        "name-es": "Pakistán",
         "alpha2": "PK",
         "alpha3": "PAK",
         "numeric": "586",
         "currencies": ["PKR"]
     },
     "PW": {
-        "nameEn": "Palau",
-        "nameEs": "Palaos",
+        "name-en": "Palau",
+        "name-es": "Palaos",
         "alpha2": "PW",
         "alpha3": "PLW",
         "numeric": "585",
         "currencies": ["USD"]
     },
     "PS": {
-        "nameEn": "Palestine, State of",
-        "nameEs": "Palestina",
+        "name-en": "Palestine, State of",
+        "name-es": "Palestina",
         "alpha2": "PS",
         "alpha3": "PSE",
         "numeric": "PS",
         "currencies": []
     },
     "PA": {
-        "nameEn": "Panama",
-        "nameEs": "Panamá",
+        "name-en": "Panama",
+        "name-es": "Panamá",
         "alpha2": "PA",
         "alpha3": "PAN",
         "numeric": "591",
         "currencies": ["PAB", "USD"]
     },
     "PG": {
-        "nameEn": "Papua New Guinea",
-        "nameEs": "Papúa Nueva Guinea",
+        "name-en": "Papua New Guinea",
+        "name-es": "Papúa Nueva Guinea",
         "alpha2": "PG",
         "alpha3": "PNG",
         "numeric": "598",
         "currencies": ["PGK"]
     },
     "PY": {
-        "nameEn": "Paraguay",
-        "nameEs": "Paraguay",
+        "name-en": "Paraguay",
+        "name-es": "Paraguay",
         "alpha2": "PY",
         "alpha3": "PRY",
         "numeric": "600",
         "currencies": ["PYG"]
     },
     "PE": {
-        "nameEn": "Peru",
-        "nameEs": "Perú",
+        "name-en": "Peru",
+        "name-es": "Perú",
         "alpha2": "PE",
         "alpha3": "PER",
         "numeric": "604",
         "currencies": ["PEN"]
     },
     "PH": {
-        "nameEn": "Philippines",
-        "nameEs": "Filipinas",
+        "name-en": "Philippines",
+        "name-es": "Filipinas",
         "alpha2": "PH",
         "alpha3": "PHL",
         "numeric": "608",
         "currencies": ["PHP"]
     },
     "PN": {
-        "nameEn": "Pitcairn Islands",
-        "nameEs": "Islas Pitcairn",
+        "name-en": "Pitcairn Islands",
+        "name-es": "Islas Pitcairn",
         "alpha2": "PN",
         "alpha3": "PCN",
         "numeric": "612",
         "currencies": ["NZD"]
     },
     "PL": {
-        "nameEn": "Poland",
-        "nameEs": "Polonia",
+        "name-en": "Poland",
+        "name-es": "Polonia",
         "alpha2": "PL",
         "alpha3": "POL",
         "numeric": "616",
         "currencies": ["PLN"]
     },
     "PT": {
-        "nameEn": "Portugal",
-        "nameEs": "Portugal",
+        "name-en": "Portugal",
+        "name-es": "Portugal",
         "alpha2": "PT",
         "alpha3": "PRT",
         "numeric": "620",
         "currencies": ["EUR"]
     },
     "PR": {
-        "nameEn": "Puerto Rico",
-        "nameEs": "Puerto Rico",
+        "name-en": "Puerto Rico",
+        "name-es": "Puerto Rico",
         "alpha2": "PR",
         "alpha3": "PRI",
         "numeric": "630",
         "currencies": ["USD"]
     },
     "QA": {
-        "nameEn": "Qatar",
-        "nameEs": "Catar",
+        "name-en": "Qatar",
+        "name-es": "Catar",
         "alpha2": "QA",
         "alpha3": "QAT",
         "numeric": "634",
         "currencies": ["QAR"]
     },
     "RO": {
-        "nameEn": "Romania",
-        "nameEs": "Rumania",
+        "name-en": "Romania",
+        "name-es": "Rumania",
         "alpha2": "RO",
         "alpha3": "ROU",
         "numeric": "642",
         "currencies": ["RON"]
     },
     "RU": {
-        "nameEn": "Russian",
-        "nameEs": "Rusia",
+        "name-en": "Russian",
+        "name-es": "Rusia",
         "alpha2": "RU",
         "alpha3": "RUS",
         "numeric": "643",
         "currencies": ["RUB"]
     },
     "RW": {
-        "nameEn": "Rwanda",
-        "nameEs": "Ruanda",
+        "name-en": "Rwanda",
+        "name-es": "Ruanda",
         "alpha2": "RW",
         "alpha3": "RWA",
         "numeric": "646",
         "currencies": ["RWF"]
     },
     "RE": {
-        "nameEn": "Réunion",
-        "nameEs": "Reunión",
+        "name-en": "Réunion",
+        "name-es": "Reunión",
         "alpha2": "RE",
         "alpha3": "REU",
         "numeric": "638",
         "currencies": ["EUR"]
     },
     "BL": {
-        "nameEn": "Saint Barthélemy",
-        "nameEs": "San Bartolomé",
+        "name-en": "Saint Barthélemy",
+        "name-es": "San Bartolomé",
         "alpha2": "BL",
         "alpha3": "BLM",
         "numeric": "652",
         "currencies": ["EUR"]
     },
     "SH": {
-        "nameEn": "Saint Helena, Ascension and Tristan da Cunha",
-        "nameEs": "Santa Elena, Ascensión y Tristán de Acuña",
+        "name-en": "Saint Helena, Ascension and Tristan da Cunha",
+        "name-es": "Santa Elena, Ascensión y Tristán de Acuña",
         "alpha2": "SH",
         "alpha3": "SHN",
         "numeric": "SH",
         "currencies": ["SHP"]
     },
     "KN": {
-        "nameEn": "Saint Kitts and Nevis",
-        "nameEs": "San Cristóbal y Nieves",
+        "name-en": "Saint Kitts and Nevis",
+        "name-es": "San Cristóbal y Nieves",
         "alpha2": "KN",
         "alpha3": "KNA",
         "numeric": "659",
         "currencies": ["XCD"]
     },
     "LC": {
-        "nameEn": "Saint Lucia",
-        "nameEs": "Santa Lucía",
+        "name-en": "Saint Lucia",
+        "name-es": "Santa Lucía",
         "alpha2": "LC",
         "alpha3": "LCA",
         "numeric": "662",
         "currencies": ["XCD"]
     },
     "MF": {
-        "nameEn": "Saint Martin (French part)",
-        "nameEs": "San Martín",
+        "name-en": "Saint Martin (French part)",
+        "name-es": "San Martín",
         "alpha2": "MF",
         "alpha3": "MAF",
         "numeric": "663",
         "currencies": ["EUR"]
     },
     "PM": {
-        "nameEn": "Saint Pierre and Miquelon",
-        "nameEs": "San Pedro y Miquelón",
+        "name-en": "Saint Pierre and Miquelon",
+        "name-es": "San Pedro y Miquelón",
         "alpha2": "PM",
         "alpha3": "SPM",
         "numeric": "666",
         "currencies": ["EUR"]
     },
     "VC": {
-        "nameEn": "Saint Vincent and the Grenadines",
-        "nameEs": "San Vicente y las Granadinas",
+        "name-en": "Saint Vincent and the Grenadines",
+        "name-es": "San Vicente y las Granadinas",
         "alpha2": "VC",
         "alpha3": "VCT",
         "numeric": "670",
         "currencies": ["XCD"]
     },
     "WS": {
-        "nameEn": "Samoa",
-        "nameEs": "Samoa",
+        "name-en": "Samoa",
+        "name-es": "Samoa",
         "alpha2": "WS",
         "alpha3": "WSM",
         "numeric": "882",
         "currencies": ["WST"]
     },
     "SM": {
-        "nameEn": "San Marino",
-        "nameEs": "San Marino",
+        "name-en": "San Marino",
+        "name-es": "San Marino",
         "alpha2": "SM",
         "alpha3": "SMR",
         "numeric": "674",
         "currencies": ["EUR"]
     },
     "ST": {
-        "nameEn": "Sao Tome and Principe",
-        "nameEs": "Santo Tomé y Príncipe",
+        "name-en": "Sao Tome and Principe",
+        "name-es": "Santo Tomé y Príncipe",
         "alpha2": "ST",
         "alpha3": "STP",
         "numeric": "678",
         "currencies": ["STN"]
     },
     "SA": {
-        "nameEn": "Saudi Arabia",
-        "nameEs": "Arabia Saudita",
+        "name-en": "Saudi Arabia",
+        "name-es": "Arabia Saudita",
         "alpha2": "SA",
         "alpha3": "SAU",
         "numeric": "682",
         "currencies": ["SAR"]
     },
     "SN": {
-        "nameEn": "Senegal",
-        "nameEs": "Senegal",
+        "name-en": "Senegal",
+        "name-es": "Senegal",
         "alpha2": "SN",
         "alpha3": "SEN",
         "numeric": "686",
         "currencies": ["XOF"]
     },
     "RS": {
-        "nameEn": "Serbia",
-        "nameEs": "Serbia",
+        "name-en": "Serbia",
+        "name-es": "Serbia",
         "alpha2": "RS",
         "alpha3": "SRB",
         "numeric": "688",
         "currencies": ["RSD"]
     },
     "SC": {
-        "nameEn": "Seychelles",
-        "nameEs": "Seychelles",
+        "name-en": "Seychelles",
+        "name-es": "Seychelles",
         "alpha2": "SC",
         "alpha3": "SYC",
         "numeric": "690",
         "currencies": ["SCR"]
     },
     "SL": {
-        "nameEn": "Sierra Leone",
-        "nameEs": "Sierra Leona",
+        "name-en": "Sierra Leone",
+        "name-es": "Sierra Leona",
         "alpha2": "SL",
         "alpha3": "SLE",
         "numeric": "694",
         "currencies": ["SLL"]
     },
     "SG": {
-        "nameEn": "Singapore",
-        "nameEs": "Singapur",
+        "name-en": "Singapore",
+        "name-es": "Singapur",
         "alpha2": "SG",
         "alpha3": "SGP",
         "numeric": "702",
         "currencies": ["SGD"]
     },
     "SX": {
-        "nameEn": "Sint Maarten",
-        "nameEs": "San Martín",
+        "name-en": "Sint Maarten",
+        "name-es": "San Martín",
         "alpha2": "SX",
         "alpha3": "SXM",
         "numeric": "534",
         "currencies": ["ANG"]
     },
     "SK": {
-        "nameEn": "Slovakia",
-        "nameEs": "Eslovaquia",
+        "name-en": "Slovakia",
+        "name-es": "Eslovaquia",
         "alpha2": "SK",
         "alpha3": "SVK",
         "numeric": "703",
         "currencies": ["EUR"]
     },
     "SI": {
-        "nameEn": "Slovenia",
-        "nameEs": "Eslovenia",
+        "name-en": "Slovenia",
+        "name-es": "Eslovenia",
         "alpha2": "SI",
         "alpha3": "SVN",
         "numeric": "705",
         "currencies": ["EUR"]
     },
     "SB": {
-        "nameEn": "Solomon Islands",
-        "nameEs": "Islas Salomón",
+        "name-en": "Solomon Islands",
+        "name-es": "Islas Salomón",
         "alpha2": "SB",
         "alpha3": "SLB",
         "numeric": "090",
         "currencies": ["SBD"]
     },
     "SO": {
-        "nameEn": "Somalia",
-        "nameEs": "Somalia",
+        "name-en": "Somalia",
+        "name-es": "Somalia",
         "alpha2": "SO",
         "alpha3": "SOM",
         "numeric": "706",
         "currencies": ["SOS"]
     },
     "ZA": {
-        "nameEn": "South Africa",
-        "nameEs": "Sudáfrica",
+        "name-en": "South Africa",
+        "name-es": "Sudáfrica",
         "alpha2": "ZA",
         "alpha3": "ZAF",
         "numeric": "710",
         "currencies": ["ZAR"]
     },
     "GS": {
-        "nameEn": "South Georgia and the South Sandwich Islands",
-        "nameEs": "Islas Georgias del Sur y Sandwich del Sur",
+        "name-en": "South Georgia and the South Sandwich Islands",
+        "name-es": "Islas Georgias del Sur y Sandwich del Sur",
         "alpha2": "GS",
         "alpha3": "SGS",
         "numeric": "239",
         "currencies": []
     },
     "SS": {
-        "nameEn": "South Sudan",
-        "nameEs": "Sudán del Sur",
+        "name-en": "South Sudan",
+        "name-es": "Sudán del Sur",
         "alpha2": "SS",
         "alpha3": "SSD",
         "numeric": "728",
         "currencies": ["SSP"]
     },
     "ES": {
-        "nameEn": "Spain",
-        "nameEs": "España",
+        "name-en": "Spain",
+        "name-es": "España",
         "alpha2": "ES",
         "alpha3": "ESP",
         "numeric": "724",
         "currencies": ["EUR"]
     },
     "LK": {
-        "nameEn": "Sri Lanka",
-        "nameEs": "Sri Lanka",
+        "name-en": "Sri Lanka",
+        "name-es": "Sri Lanka",
         "alpha2": "LK",
         "alpha3": "LKA",
         "numeric": "144",
         "currencies": ["LKR"]
     },
     "SD": {
-        "nameEn": "Sudan",
-        "nameEs": "Sudán",
+        "name-en": "Sudan",
+        "name-es": "Sudán",
         "alpha2": "SD",
         "alpha3": "SDN",
         "numeric": "729",
         "currencies": ["SDG"]
     },
     "SR": {
-        "nameEn": "Suriname",
-        "nameEs": "Surinam",
+        "name-en": "Suriname",
+        "name-es": "Surinam",
         "alpha2": "SR",
         "alpha3": "SUR",
         "numeric": "740",
         "currencies": ["SRD"]
     },
     "SJ": {
-        "nameEn": "Svalbard and Jan Mayen",
-        "nameEs": "Svalbard y Jan Mayen",
+        "name-en": "Svalbard and Jan Mayen",
+        "name-es": "Svalbard y Jan Mayen",
         "alpha2": "SJ",
         "alpha3": "SJM",
         "numeric": "744",
         "currencies": ["NOK"]
     },
     "SE": {
-        "nameEn": "Sweden",
-        "nameEs": "Suecia",
+        "name-en": "Sweden",
+        "name-es": "Suecia",
         "alpha2": "SE",
         "alpha3": "SWE",
         "numeric": "752",
         "currencies": ["SEK"]
     },
     "CH": {
-        "nameEn": "Switzerland",
-        "nameEs": "Suiza",
+        "name-en": "Switzerland",
+        "name-es": "Suiza",
         "alpha2": "CH",
         "alpha3": "CHE",
         "numeric": "756",
         "currencies": ["CHE", "CHF", "CHW"]
     },
     "SY": {
-        "nameEn": "Syrian",
-        "nameEs": "Siria",
+        "name-en": "Syrian",
+        "name-es": "Siria",
         "alpha2": "SY",
         "alpha3": "SYR",
         "numeric": "760",
         "currencies": ["SYP"]
     },
     "TW": {
-        "nameEn": "Taiwan, Province of China",
-        "nameEs": "Taiwán (República de China)",
+        "name-en": "Taiwan, Province of China",
+        "name-es": "Taiwán (República de China)",
         "alpha2": "TW",
         "alpha3": "TWN",
         "numeric": "158",
         "currencies": ["TWD"]
     },
     "TJ": {
-        "nameEn": "Tajikistan",
-        "nameEs": "Tayikistán",
+        "name-en": "Tajikistan",
+        "name-es": "Tayikistán",
         "alpha2": "TJ",
         "alpha3": "TJK",
         "numeric": "762",
         "currencies": ["TJS"]
     },
     "TZ": {
-        "nameEn": "Tanzania, United Republic of",
-        "nameEs": "Tanzania",
+        "name-en": "Tanzania, United Republic of",
+        "name-es": "Tanzania",
         "alpha2": "TZ",
         "alpha3": "TZA",
         "numeric": "TZA",
         "currencies": ["TZS"]
     },
     "TH": {
-        "nameEn": "Thailand",
-        "nameEs": "Tailandia",
+        "name-en": "Thailand",
+        "name-es": "Tailandia",
         "alpha2": "TH",
         "alpha3": "THA",
         "numeric": "764",
         "currencies": ["THB"]
     },
     "TL": {
-        "nameEn": "Timor-Leste",
-        "nameEs": "Timor Oriental",
+        "name-en": "Timor-Leste",
+        "name-es": "Timor Oriental",
         "alpha2": "TL",
         "alpha3": "TLS",
         "numeric": "626",
         "currencies": ["USD"]
     },
     "TG": {
-        "nameEn": "Togo",
-        "nameEs": "Togo",
+        "name-en": "Togo",
+        "name-es": "Togo",
         "alpha2": "TG",
         "alpha3": "TGO",
         "numeric": "768",
         "currencies": ["XOF"]
     },
     "TK": {
-        "nameEn": "Tokelau",
-        "nameEs": "Tokelau",
+        "name-en": "Tokelau",
+        "name-es": "Tokelau",
         "alpha2": "TK",
         "alpha3": "TKL",
         "numeric": "772",
         "currencies": ["NZD"]
     },
     "TO": {
-        "nameEn": "Tonga",
-        "nameEs": "Tonga",
+        "name-en": "Tonga",
+        "name-es": "Tonga",
         "alpha2": "TO",
         "alpha3": "TON",
         "numeric": "776",
         "currencies": ["TOP"]
     },
     "TT": {
-        "nameEn": "Trinidad and Tobago",
-        "nameEs": "Trinidad y Tobago",
+        "name-en": "Trinidad and Tobago",
+        "name-es": "Trinidad y Tobago",
         "alpha2": "TT",
         "alpha3": "TTO",
         "numeric": "780",
         "currencies": ["TTD"]
     },
     "TN": {
-        "nameEn": "Tunisia",
-        "nameEs": "Túnez",
+        "name-en": "Tunisia",
+        "name-es": "Túnez",
         "alpha2": "TN",
         "alpha3": "TUN",
         "numeric": "788",
         "currencies": ["TND"]
     },
     "TR": {
-        "nameEn": "Turkey",
-        "nameEs": "Turquía",
+        "name-en": "Turkey",
+        "name-es": "Turquía",
         "alpha2": "TR",
         "alpha3": "TUR",
         "numeric": "792",
         "currencies": ["TRY"]
     },
     "TM": {
-        "nameEn": "Turkmenistan",
-        "nameEs": "Turkmenistán",
+        "name-en": "Turkmenistan",
+        "name-es": "Turkmenistán",
         "alpha2": "TM",
         "alpha3": "TKM",
         "numeric": "795",
         "currencies": ["TMT"]
     },
     "TC": {
-        "nameEn": "Turks and Caicos Islands",
-        "nameEs": "Islas Turcas y Caicos",
+        "name-en": "Turks and Caicos Islands",
+        "name-es": "Islas Turcas y Caicos",
         "alpha2": "TC",
         "alpha3": "TCA",
         "numeric": "796",
         "currencies": ["USD"]
     },
     "TV": {
-        "nameEn": "Tuvalu",
-        "nameEs": "Tuvalu",
+        "name-en": "Tuvalu",
+        "name-es": "Tuvalu",
         "alpha2": "TV",
         "alpha3": "TUV",
         "numeric": "798",
         "currencies": ["AUD"]
     },
     "UG": {
-        "nameEn": "Uganda",
-        "nameEs": "Uganda",
+        "name-en": "Uganda",
+        "name-es": "Uganda",
         "alpha2": "UG",
         "alpha3": "UGA",
         "numeric": "800",
         "currencies": ["UGX"]
     },
     "UA": {
-        "nameEn": "Ukraine",
-        "nameEs": "Ucrania",
+        "name-en": "Ukraine",
+        "name-es": "Ucrania",
         "alpha2": "UA",
         "alpha3": "UKR",
         "numeric": "804",
         "currencies": ["UAH"]
     },
     "AE": {
-        "nameEn": "United Arab Emirates",
-        "nameEs": "Emiratos Árabes Unidos",
+        "name-en": "United Arab Emirates",
+        "name-es": "Emiratos Árabes Unidos",
         "alpha2": "AE",
         "alpha3": "ARE",
         "numeric": "784",
         "currencies": ["AED"]
     },
     "GB": {
-        "nameEn": "United Kingdom",
-        "nameEs": "Reino Unido",
+        "name-en": "United Kingdom",
+        "name-es": "Reino Unido",
         "alpha2": "GB",
         "alpha3": "GBR",
         "numeric": "826",
         "currencies": ["GBP"]
     },
     "UM": {
-        "nameEn": "United States Minor Outlying Islands",
-        "nameEs": "Islas Ultramarinas Menores de los Estados Unidos",
+        "name-en": "United States Minor Outlying Islands",
+        "name-es": "Islas Ultramarinas Menores de los Estados Unidos",
         "alpha2": "UM",
         "alpha3": "UMI",
         "numeric": "581",
         "currencies": ["USD"]
     },
     "US": {
-        "nameEn": "United States of America",
-        "nameEs": "Estados Unidos",
+        "name-en": "United States of America",
+        "name-es": "Estados Unidos",
         "alpha2": "US",
         "alpha3": "USA",
         "numeric": "840",
         "currencies": ["USD", "USN"]
     },
     "UY": {
-        "nameEn": "Uruguay",
-        "nameEs": "Uruguay",
+        "name-en": "Uruguay",
+        "name-es": "Uruguay",
         "alpha2": "UY",
         "alpha3": "URY",
         "numeric": "858",
         "currencies": ["UYI", "UYU", "UYW"]
     },
     "UZ": {
-        "nameEn": "Uzbekistan",
-        "nameEs": "Uzbekistán",
+        "name-en": "Uzbekistan",
+        "name-es": "Uzbekistán",
         "alpha2": "UZ",
         "alpha3": "UZB",
         "numeric": "860",
         "currencies": ["UZS"]
     },
     "VU": {
-        "nameEn": "Vanuatu",
-        "nameEs": "Vanuatu",
+        "name-en": "Vanuatu",
+        "name-es": "Vanuatu",
         "alpha2": "VU",
         "alpha3": "VUT",
         "numeric": "548",
         "currencies": ["VUV"]
     },
     "VE": {
-        "nameEn": "Venezuela (Bolivarian Republic of)",
-        "nameEs": "Venezuela",
+        "name-en": "Venezuela (Bolivarian Republic of)",
+        "name-es": "Venezuela",
         "alpha2": "VE",
         "alpha3": "VEN",
         "numeric": "862",
         "currencies": ["VES"]
     },
     "VN": {
-        "nameEn": "VietNam",
-        "nameEs": "Vietnam",
+        "name-en": "VietNam",
+        "name-es": "Vietnam",
         "alpha2": "VN",
         "alpha3": "VNM",
         "numeric": "704",
         "currencies": ["VND"]
     },
     "VG": {
-        "nameEn": "Virgin Islands (British)",
-        "nameEs": "Islas Vírgenes Británicas",
+        "name-en": "Virgin Islands (British)",
+        "name-es": "Islas Vírgenes Británicas",
         "alpha2": "VG",
         "alpha3": "VGB",
         "numeric": "092",
         "currencies": []
     },
     "VI": {
-        "nameEn": "Virgin Islands (U.S.)",
-        "nameEs": "Islas Vírgenes Americanas",
+        "name-en": "Virgin Islands (U.S.)",
+        "name-es": "Islas Vírgenes Americanas",
         "alpha2": "VI",
         "alpha3": "VIR",
         "numeric": "850",
         "currencies": ["USD"]
     },
     "WF": {
-        "nameEn": "Wallis and Futuna",
-        "nameEs": "Wallis y Futuna",
+        "name-en": "Wallis and Futuna",
+        "name-es": "Wallis y Futuna",
         "alpha2": "WF",
         "alpha3": "WLF",
         "numeric": "876",
         "currencies": ["XPF"]
     },
     "EH": {
-        "nameEn": "Western Sahara",
-        "nameEs": "República Árabe Saharaui Democrática",
+        "name-en": "Western Sahara",
+        "name-es": "República Árabe Saharaui Democrática",
         "alpha2": "EH",
         "alpha3": "ESH",
         "numeric": "732",
         "currencies": ["MAD"]
     },
     "YE": {
-        "nameEn": "Yemen",
-        "nameEs": "Yemen",
+        "name-en": "Yemen",
+        "name-es": "Yemen",
         "alpha2": "YE",
         "alpha3": "YEM",
         "numeric": "887",
         "currencies": ["YER"]
     },
     "ZM": {
-        "nameEn": "Zambia",
-        "nameEs": "Zambia",
+        "name-en": "Zambia",
+        "name-es": "Zambia",
         "alpha2": "ZM",
         "alpha3": "ZMB",
         "numeric": "894",
         "currencies": ["ZMW"]
     },
     "ZW": {
-        "nameEn": "Zimbabwe",
-        "nameEs": "Zimbabue",
+        "name-en": "Zimbabwe",
+        "name-es": "Zimbabue",
         "alpha2": "ZW",
         "alpha3": "ZWE",
         "numeric": "716",
         "currencies": ["ZWL"]
     },
     "AX": {
-        "nameEn": "Aland Islands",
-        "nameEs": "Aland",
+        "name-en": "Aland Islands",
+        "name-es": "Aland",
         "alpha2": "AX",
         "alpha3": "ALA",
         "numeric": "248",
