@@ -4,6 +4,9 @@
   "private": true,
   "description": "UYU Change",
   "author": "Ing. Yubisel Vega Alvarez",
+  "engines": {
+    "node": "=12"
+  },
   "scripts": {
     "build": "vue-cli-service build",
     "app": "vue-cli-service serve --mode development",
